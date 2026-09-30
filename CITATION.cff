@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software or its derived products, please cite the associated RAA article."
 title: "Reproducibility package for GOTTA Prototype variability and classification analysis"
-version: 1.0.0
-date-released: 2026-09-24
+version: 1.0.1
+date-released: 2026-09-30
 authors:
   - family-names: Zhang
     given-names: Jingyi
@@ -11,4 +11,4 @@ authors:
     given-names: Hu
   - family-names: Xiao
     given-names: Kai
-repository-code: "https://github.com/zhangajingyi/gotta-variability-classification"
+repository-code: "https://github.com/zhangaijingyi/gotta-variability-classification"

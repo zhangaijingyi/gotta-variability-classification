@@ -1,0 +1,57 @@
+{
+  "time_definition": {
+    "gotta_input": "MJD(UTC), exposure start",
+    "gotta_conversion": "add 30 s for a 60 s exposure, then add heliocentric light-travel time at Xinglong",
+    "ztf_input_used_by_original_code": "IRSA light-curve mjd, exposure start",
+    "ztf_corrected": "IRSA hjd - 2400000.5, exposure midpoint and HJD(UTC)"
+  },
+  "gotta_correction_seconds_all_sources": {
+    "median_of_source_medians": 264.5310925785452,
+    "range": [
+      -232.58226981852204,
+      524.5150676462799
+    ],
+    "median_source_span": 346.90013446379453,
+    "maximum_source_span": 649.5940939988941
+  },
+  "shortest_period_source": {
+    "source_id": "64528712",
+    "period_d": 0.0420556,
+    "correction_median_s": 263.1459377123974,
+    "correction_span_s": 247.82069174107164,
+    "phase_span": 0.0682024520705789,
+    "midpoint_30s_phase": 0.008256266043576177,
+    "utc_to_tdb_69p184s_phase": 0.01904005033195914,
+    "maximum_heliocentric_499s_phase": 0.13732922519148374
+  },
+  "classification_fixed_natural_training": {
+    "accuracy_mjd_start": 0.8848920863309353,
+    "accuracy_hjd_mid": 0.8820143884892087,
+    "balanced_accuracy_mjd_start": 0.8873111539697845,
+    "balanced_accuracy_hjd_mid": 0.8849177649201757,
+    "macro_f1_mjd_start": 0.8849789256568918,
+    "macro_f1_hjd_mid": 0.8816286935156169,
+    "changed_test_predictions": 43,
+    "n_test": 695
+  },
+  "ztf_correction_seconds_cadence_subset": {
+    "range": [
+      -388.0845934851095,
+      578.4246443537995
+    ],
+    "median_source_span": 765.9794426523149,
+    "maximum_source_span": 917.3623502952978
+  },
+  "cadence_hjd_midpoint": {
+    "n_sources": 36,
+    "n_draws": 720,
+    "median_phase_mismatch": 0.0016475121902086,
+    "median_sourcewise_residual_ratio": 0.6149062828788889
+  },
+  "cadence_mjd_start_control": {
+    "n_sources": 36,
+    "n_draws": 720,
+    "median_phase_mismatch": 0.0016441252813592,
+    "median_sourcewise_residual_ratio": 0.6242577316422677
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "n_sources": 300,
+  "n_phase_bins": 120,
+  "median_n_obs": 23.0,
+  "median_occupied_bins": 21.0,
+  "occupied_bins_iqr": [
+    19.0,
+    23.0
+  ],
+  "occupied_bins_range": [
+    13,
+    69
+  ],
+  "median_occupied_fraction": 0.175
+}

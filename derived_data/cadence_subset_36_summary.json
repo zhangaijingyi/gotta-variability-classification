@@ -1,0 +1,17 @@
+{
+  "n": 36,
+  "class_counts": {
+    "Pulsating": 13,
+    "rotational star": 12,
+    "Ecl": 11
+  },
+  "median_mag": 15.946590675,
+  "magnitude_range": [
+    13.453907,
+    17.8469276
+  ],
+  "magnitude_iqr": [
+    14.7253163,
+    16.7915115375
+  ]
+}

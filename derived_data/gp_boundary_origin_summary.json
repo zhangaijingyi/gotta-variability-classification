@@ -1,0 +1,42 @@
+[
+  {
+    "origin_shift": 0.0,
+    "n_sources": 30,
+    "median_cycle_mean_difference": 0.016516407376984787,
+    "median_cycle_sd_difference": 0.0028474812390491475,
+    "median_seam_mean_difference": 0.008088541791013704,
+    "median_seam_sd_difference": 0.0026967279220833544,
+    "median_origin_mean_difference": 0.0,
+    "median_origin_sd_difference": 0.0
+  },
+  {
+    "origin_shift": 0.125,
+    "n_sources": 30,
+    "median_cycle_mean_difference": 0.025947526826464617,
+    "median_cycle_sd_difference": 0.0026850179772752204,
+    "median_seam_mean_difference": 0.0003969729429833535,
+    "median_seam_sd_difference": 1.3358463476220717e-06,
+    "median_origin_mean_difference": 2.2687025769130287e-07,
+    "median_origin_sd_difference": 2.5260798227483283e-12
+  },
+  {
+    "origin_shift": 0.25,
+    "n_sources": 30,
+    "median_cycle_mean_difference": 0.015695888013649295,
+    "median_cycle_sd_difference": 0.0025270164400699926,
+    "median_seam_mean_difference": 9.295477547688336e-06,
+    "median_seam_sd_difference": 2.1364000507909098e-09,
+    "median_origin_mean_difference": 4.690268930573893e-06,
+    "median_origin_sd_difference": 9.668851507198956e-10
+  },
+  {
+    "origin_shift": 0.5,
+    "n_sources": 30,
+    "median_cycle_mean_difference": 0.018855396547456493,
+    "median_cycle_sd_difference": 0.0024013314954580613,
+    "median_seam_mean_difference": 1.3599823489585106e-08,
+    "median_seam_sd_difference": 4.0679265511656126e-16,
+    "median_origin_mean_difference": 6.284135946721392e-06,
+    "median_origin_sd_difference": 1.2981160480308312e-09
+  }
+]

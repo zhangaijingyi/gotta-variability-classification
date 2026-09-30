@@ -1,0 +1,3476 @@
+source_id,label,default_phase,occupied_bins
+1492,Pulsating,False,13
+2113,Pulsating,False,16
+3475,Pulsating,False,11
+3653,Ecl,False,16
+3731,rotational star,False,16
+4477,rotational star,False,18
+4556,Pulsating,False,15
+15264,Ecl,False,21
+15969,Pulsating,False,19
+63075,Ecl,False,17
+63682,Pulsating,False,9
+63741,Ecl,False,15
+64131,Ecl,False,17
+64136,Pulsating,False,15
+65503,Ecl,False,14
+65730,Ecl,False,19
+66469,Ecl,False,19
+67084,rotational star,False,14
+68234,rotational star,False,17
+68481,Pulsating,False,15
+69497,Pulsating,False,15
+163442,Pulsating,False,18
+170222,Ecl,False,16
+170389,Pulsating,False,19
+171278,Ecl,False,19
+171284,Pulsating,False,15
+172032,Pulsating,False,17
+174274,Pulsating,False,16
+174418,Pulsating,False,16
+182534,Ecl,False,13
+182732,Pulsating,False,12
+183083,Ecl,False,11
+183252,Ecl,False,14
+256886,Pulsating,False,19
+348190,Ecl,False,16
+348505,rotational star,False,17
+350330,Ecl,False,15
+351121,Pulsating,False,18
+351125,Pulsating,False,16
+351642,Ecl,False,17
+353686,rotational star,False,17
+354735,Pulsating,False,14
+356273,Ecl,False,15
+356817,Pulsating,False,14
+356877,Pulsating,False,13
+356960,rotational star,False,13
+368138,rotational star,False,20
+373912,Ecl,False,14
+374227,Ecl,False,14
+390886,rotational star,False,18
+391705,Pulsating,False,18
+391868,rotational star,False,21
+393727,Pulsating,False,17
+396706,Ecl,False,14
+396749,Ecl,False,16
+398315,Pulsating,False,19
+401124,Pulsating,False,18
+401420,Ecl,False,18
+401938,Pulsating,False,16
+402398,Ecl,False,17
+403076,Ecl,False,16
+412163,Pulsating,False,15
+414020,Pulsating,False,15
+416128,Ecl,False,12
+517541,Ecl,False,18
+519013,Ecl,False,18
+552761,Ecl,False,31
+555576,Pulsating,False,30
+555851,Pulsating,False,25
+556264,rotational star,False,21
+556300,rotational star,False,16
+604427,Ecl,False,15
+605404,Ecl,False,16
+605958,rotational star,False,17
+606285,Ecl,False,18
+607147,Ecl,False,19
+607672,Pulsating,False,16
+640192,Pulsating,False,18
+640768,rotational star,False,17
+642234,Pulsating,False,15
+651349,Ecl,False,30
+653188,Ecl,False,18
+653611,Ecl,False,17
+654210,Pulsating,False,21
+682103,Pulsating,False,16
+682300,Pulsating,False,13
+689284,Ecl,False,16
+690118,Ecl,False,15
+690265,Pulsating,False,15
+691739,Pulsating,False,15
+692194,Ecl,False,15
+703633,Ecl,False,17
+705322,Pulsating,False,16
+706627,rotational star,False,13
+708922,rotational star,False,18
+712084,Pulsating,False,18
+713013,rotational star,False,18
+713147,Pulsating,False,16
+713256,rotational star,False,18
+713664,Ecl,False,15
+713962,Ecl,False,16
+714011,Ecl,False,16
+718410,rotational star,False,14
+718432,Ecl,False,13
+720276,Ecl,False,18
+720902,Pulsating,False,9
+720910,Ecl,False,14
+744286,Ecl,False,19
+744509,Ecl,False,17
+744737,Pulsating,False,16
+745248,Pulsating,False,14
+745603,rotational star,False,16
+747858,Ecl,False,15
+779132,Ecl,False,18
+789761,Pulsating,False,21
+791559,rotational star,False,22
+791822,Pulsating,False,20
+793028,rotational star,False,20
+795063,rotational star,False,15
+795583,rotational star,False,19
+799045,Pulsating,False,24
+802931,Ecl,False,20
+803688,Pulsating,False,20
+805006,Ecl,False,19
+806063,Ecl,False,23
+806270,rotational star,False,19
+854473,rotational star,False,19
+855356,Pulsating,False,26
+856341,rotational star,False,18
+890936,Ecl,False,18
+891487,rotational star,False,16
+892865,Pulsating,False,18
+893445,Pulsating,False,16
+988111,Pulsating,False,16
+989079,rotational star,False,15
+989130,Pulsating,False,17
+989377,rotational star,False,14
+989622,Ecl,False,17
+990412,Pulsating,False,17
+990435,Pulsating,False,16
+990921,Ecl,False,18
+992423,Pulsating,False,16
+993864,Ecl,False,15
+1068823,Pulsating,False,13
+1070298,Ecl,False,19
+1073451,Pulsating,False,14
+1077061,Ecl,False,15
+1085172,rotational star,False,18
+1086245,Pulsating,False,16
+1086274,rotational star,False,18
+1086977,rotational star,False,18
+1086994,rotational star,False,20
+1087137,Ecl,False,19
+1087435,rotational star,False,19
+1087883,Pulsating,False,17
+1087992,Ecl,False,18
+1088481,Pulsating,False,19
+1089135,rotational star,False,19
+1089276,rotational star,False,15
+1089633,rotational star,False,17
+1091902,Pulsating,False,15
+1092063,Pulsating,False,17
+1137195,Pulsating,False,20
+1137452,Pulsating,False,18
+1148586,Ecl,False,17
+1221185,Ecl,False,16
+1306430,Pulsating,False,14
+1306900,Ecl,False,14
+1327214,Pulsating,False,11
+1357214,Pulsating,False,16
+1359057,Ecl,False,15
+1360465,rotational star,False,16
+1360724,Ecl,False,20
+1361192,Ecl,False,17
+1362114,Ecl,False,19
+1397516,rotational star,False,14
+1397937,Ecl,False,16
+1398126,Pulsating,False,17
+1398170,rotational star,False,15
+1398335,Ecl,False,16
+1398837,rotational star,False,17
+1399125,Ecl,False,16
+1399357,Pulsating,False,15
+1399779,Ecl,False,15
+1399842,Ecl,False,14
+1400000,rotational star,False,14
+1400413,Pulsating,False,15
+1400532,Ecl,False,14
+1409483,Ecl,False,17
+1415802,Pulsating,False,15
+1439510,Ecl,False,13
+1462754,rotational star,False,18
+1465995,rotational star,False,18
+1485668,rotational star,False,21
+1485823,Ecl,False,18
+1485997,Ecl,False,16
+1486152,Ecl,False,17
+1486373,Ecl,False,17
+1486619,rotational star,False,16
+1486807,Ecl,False,16
+1487059,Ecl,False,17
+1487155,Pulsating,False,19
+1487164,Pulsating,False,19
+1487228,rotational star,False,18
+1488257,Ecl,False,26
+1488730,rotational star,False,19
+1493843,Pulsating,False,19
+1494121,Ecl,False,21
+1494531,Pulsating,False,17
+1496257,rotational star,False,18
+1496636,Ecl,False,21
+1498734,Ecl,False,17
+1499363,Ecl,False,17
+1499366,Pulsating,False,16
+1517076,Pulsating,False,15
+1519021,Pulsating,False,17
+1519427,rotational star,False,15
+1520574,Ecl,False,15
+1525735,Pulsating,False,19
+1526024,Ecl,False,19
+1526394,Ecl,False,18
+1527090,rotational star,False,15
+1527248,Ecl,False,16
+1527302,Pulsating,False,19
+1527555,Ecl,False,18
+1528638,Ecl,False,19
+1528696,Ecl,False,17
+1529400,Pulsating,True,7
+1531989,Ecl,False,16
+1533092,Pulsating,False,14
+1534333,Pulsating,False,16
+1535831,Ecl,False,17
+1536077,Ecl,False,15
+1540609,rotational star,False,14
+1540909,Ecl,False,15
+1542965,Pulsating,False,17
+1559991,Ecl,False,14
+1560686,Pulsating,False,15
+1785454,Ecl,False,16
+1786179,Pulsating,False,13
+1786207,rotational star,False,19
+1786713,Pulsating,False,18
+1787336,Ecl,False,18
+1787349,Pulsating,False,16
+1787905,rotational star,False,17
+1788194,Pulsating,False,14
+1788362,Pulsating,False,16
+1788906,Ecl,False,16
+1789186,Ecl,False,17
+1794893,rotational star,False,19
+1795580,Pulsating,False,18
+1796381,Ecl,False,17
+1800673,Pulsating,False,15
+1801887,rotational star,False,16
+1805412,rotational star,False,16
+1806837,rotational star,False,20
+1815795,Pulsating,False,20
+1816052,Ecl,False,29
+1817711,rotational star,False,14
+1817739,Pulsating,False,17
+1817793,rotational star,False,17
+1818735,Ecl,False,17
+1818922,rotational star,False,16
+1819187,rotational star,False,19
+1819474,Pulsating,False,19
+1820019,Pulsating,False,18
+1821852,Pulsating,False,18
+1856288,Ecl,False,16
+1856609,Ecl,False,18
+1856610,Ecl,False,16
+1856858,Ecl,False,14
+1858419,Ecl,False,15
+1858942,Pulsating,False,13
+1859120,rotational star,False,14
+1859549,Pulsating,False,15
+1860639,Ecl,False,14
+1860824,Ecl,False,14
+1865521,rotational star,False,14
+1866065,Pulsating,False,14
+1866197,Pulsating,False,15
+1866441,Pulsating,False,18
+1866879,Pulsating,False,15
+1959652,Ecl,False,15
+1960442,rotational star,False,15
+1960701,Ecl,False,17
+1961004,Ecl,False,15
+1961362,rotational star,False,16
+1962251,Ecl,False,13
+1964003,Ecl,False,15
+1964314,Pulsating,False,8
+1967365,Ecl,False,25
+1967928,rotational star,False,17
+1968103,rotational star,False,20
+1968195,Pulsating,False,16
+1969088,Pulsating,False,24
+1977822,Ecl,False,17
+1989190,Pulsating,False,12
+1989257,rotational star,False,15
+1989854,Ecl,False,13
+1990680,Ecl,False,18
+1990981,Ecl,False,15
+1993903,Pulsating,False,13
+1994256,Pulsating,False,14
+1999305,Pulsating,False,24
+2000754,Ecl,False,20
+2028803,Ecl,False,16
+2030192,Pulsating,False,19
+2033051,rotational star,False,13
+2033988,Ecl,False,17
+2035428,Ecl,False,15
+2045532,Pulsating,False,19
+2078003,Ecl,False,27
+2078896,Pulsating,False,18
+2082191,rotational star,False,16
+2205938,Ecl,False,16
+2206720,Pulsating,False,13
+2207193,rotational star,False,15
+2207385,Pulsating,False,17
+2207758,Ecl,False,14
+2210307,Pulsating,False,18
+2210879,rotational star,False,17
+2211515,Ecl,False,17
+2245522,Pulsating,False,16
+2255202,Ecl,False,15
+2255577,Ecl,False,18
+2284719,rotational star,False,18
+2507603,Ecl,False,16
+2513845,Ecl,False,16
+2609577,rotational star,False,17
+2612743,rotational star,False,22
+2613554,Pulsating,False,17
+2696868,rotational star,False,14
+2698959,Pulsating,False,16
+2708149,rotational star,False,18
+2708365,Pulsating,False,17
+2708658,rotational star,False,18
+2709414,Pulsating,False,18
+2710032,Ecl,False,16
+2710268,rotational star,False,16
+2710434,rotational star,False,16
+2710508,rotational star,False,17
+2710636,Ecl,False,18
+2710820,Ecl,False,15
+2711188,Ecl,False,16
+2854870,Ecl,False,14
+3015289,Ecl,False,18
+3015458,Ecl,False,14
+3025879,Pulsating,False,19
+3025983,Pulsating,False,14
+3026248,rotational star,False,15
+3026911,rotational star,False,18
+3027597,Pulsating,False,14
+3027876,Pulsating,False,18
+3028224,Pulsating,False,16
+3033675,Pulsating,False,18
+3037433,Ecl,False,18
+3039026,Pulsating,False,16
+3040680,rotational star,False,18
+3042322,rotational star,False,21
+3045647,Ecl,False,18
+3051434,rotational star,False,16
+3053459,Ecl,False,19
+3055159,Pulsating,False,20
+3055370,rotational star,False,17
+3056864,Pulsating,False,17
+3064343,Ecl,False,16
+3168240,Pulsating,False,15
+3169596,Pulsating,False,11
+3169788,Pulsating,False,18
+3170981,rotational star,False,21
+3171009,Pulsating,False,23
+3238469,rotational star,False,15
+3262989,Ecl,False,15
+3263801,Ecl,False,15
+3263917,rotational star,False,17
+3265024,Ecl,False,15
+3267078,Ecl,False,15
+3267525,Ecl,False,16
+3268343,Pulsating,False,15
+3268443,Ecl,False,18
+3268485,Ecl,False,13
+3274513,Pulsating,False,24
+3294397,Ecl,False,18
+3301478,rotational star,False,15
+3302875,Ecl,False,18
+3307588,rotational star,False,14
+3307979,Pulsating,False,15
+3308758,Pulsating,False,14
+3315056,Pulsating,False,17
+3316443,Ecl,False,19
+3316543,rotational star,False,24
+3316875,rotational star,False,20
+3320934,Ecl,False,12
+3321170,rotational star,False,13
+3321236,Ecl,False,15
+3350358,Ecl,False,15
+3351882,Ecl,False,15
+3353183,Ecl,False,15
+3354645,Ecl,False,16
+3356571,Ecl,False,18
+3384102,Pulsating,False,14
+3384809,Pulsating,False,14
+3397979,Pulsating,False,22
+3398410,Pulsating,False,13
+3398604,Ecl,False,18
+3400030,Pulsating,False,17
+3402113,Pulsating,False,16
+3493861,rotational star,False,16
+3494134,Ecl,False,20
+3496870,rotational star,False,18
+3497470,Ecl,False,17
+3497777,rotational star,False,19
+3498542,rotational star,False,21
+3506040,Ecl,False,18
+3506867,Pulsating,False,18
+3510231,Pulsating,False,26
+3513921,Pulsating,False,28
+3515396,Pulsating,False,22
+3515922,rotational star,False,22
+3517491,Pulsating,False,19
+3517587,rotational star,False,23
+3517636,Pulsating,False,19
+3530716,Ecl,False,23
+3530851,Ecl,False,16
+3532457,rotational star,False,18
+3532504,rotational star,False,17
+3532548,Ecl,False,16
+3532725,rotational star,False,16
+3532895,Pulsating,False,16
+3532955,Pulsating,False,16
+3534132,rotational star,False,17
+3534796,Ecl,False,19
+3535885,Ecl,False,16
+3535904,Pulsating,False,11
+3536220,rotational star,False,12
+3536386,Ecl,False,17
+3536616,Ecl,False,19
+3536824,Ecl,False,25
+3537341,Pulsating,False,29
+3537506,rotational star,False,15
+3538360,Pulsating,False,14
+3538485,Ecl,False,14
+3538597,Ecl,False,18
+3538812,rotational star,False,18
+3538828,Ecl,False,11
+3539186,Ecl,False,17
+3539430,Pulsating,False,13
+3540068,Pulsating,False,14
+3563158,Pulsating,False,20
+3563177,rotational star,False,18
+3563635,Ecl,False,18
+3564427,Ecl,False,18
+3564510,Ecl,False,19
+3564690,rotational star,False,18
+3564893,rotational star,False,18
+3565126,rotational star,False,17
+3569945,Pulsating,False,16
+3573648,Pulsating,False,15
+3574211,rotational star,False,17
+3574286,Pulsating,False,16
+3577225,rotational star,False,15
+3577401,Pulsating,False,15
+3577405,Pulsating,False,14
+3577505,Ecl,False,17
+3577793,Pulsating,False,17
+3578120,Ecl,False,15
+3578149,rotational star,False,17
+3578629,Pulsating,False,16
+3579296,Pulsating,False,16
+3579339,Pulsating,False,17
+3580508,Pulsating,False,16
+3580689,rotational star,False,18
+3581212,Pulsating,False,16
+3581809,Ecl,False,18
+3609640,Pulsating,False,15
+3610139,rotational star,False,14
+3610311,Ecl,False,18
+3610496,Pulsating,False,16
+3610544,Pulsating,False,15
+3610975,Ecl,False,15
+3610982,rotational star,False,16
+3611639,Pulsating,False,13
+3707618,Pulsating,False,16
+3707856,Ecl,False,17
+3708831,Ecl,False,15
+3710767,Pulsating,False,15
+3710808,Ecl,False,18
+3710915,rotational star,False,17
+3711337,rotational star,False,16
+3712095,Pulsating,False,20
+3712377,Pulsating,False,14
+3712568,Pulsating,False,18
+3769324,Ecl,False,12
+3778222,rotational star,False,10
+3820286,Ecl,False,14
+3820912,Ecl,False,19
+3821074,Ecl,False,20
+3821561,Ecl,False,21
+3822793,Ecl,False,20
+3871206,rotational star,False,20
+3873433,rotational star,False,19
+3874759,rotational star,False,21
+3875738,Ecl,False,17
+3877762,Pulsating,False,15
+3878143,rotational star,False,15
+3879596,Pulsating,False,19
+3886622,Pulsating,False,14
+3887691,rotational star,False,19
+3888046,rotational star,False,16
+3888880,Pulsating,False,16
+3888905,rotational star,False,16
+3890146,Pulsating,False,22
+3891514,Pulsating,False,20
+3891826,Ecl,False,15
+3892236,Pulsating,False,19
+3892698,Pulsating,False,17
+3892908,Pulsating,False,19
+3894048,Ecl,False,20
+3896410,Ecl,False,17
+3897960,Pulsating,False,13
+3899727,rotational star,False,14
+3900804,Ecl,False,12
+3901049,Pulsating,False,16
+3901195,Ecl,False,11
+3901523,Pulsating,True,3
+3901579,Pulsating,True,1
+3902479,rotational star,False,10
+3903295,Ecl,False,14
+3903846,Pulsating,False,9
+3905246,Pulsating,False,8
+3905543,rotational star,False,16
+4016172,Pulsating,False,14
+4037793,rotational star,False,12
+4038104,rotational star,False,14
+4048608,Pulsating,False,19
+4049175,Ecl,False,15
+4049286,Ecl,False,13
+4049593,Ecl,False,15
+4049660,rotational star,False,18
+4049775,Ecl,False,19
+4052360,Ecl,False,15
+4053354,Pulsating,False,10
+4075914,Pulsating,False,17
+4077455,Ecl,False,16
+4077488,Pulsating,False,10
+4077773,rotational star,False,14
+4078284,Ecl,False,16
+4082210,Pulsating,False,15
+4083549,Pulsating,False,14
+4084295,Pulsating,False,18
+4085335,Pulsating,False,14
+4085912,Pulsating,False,17
+4086204,Pulsating,False,11
+4086437,Ecl,False,17
+4109411,Pulsating,False,21
+4109986,Pulsating,False,20
+4112105,Pulsating,False,17
+4112322,Ecl,False,19
+4112453,Pulsating,False,17
+4112491,Pulsating,False,16
+4113244,Pulsating,False,20
+4150111,Ecl,False,11
+4150246,rotational star,False,17
+4151235,Ecl,False,20
+4151340,Ecl,False,17
+4151423,Ecl,False,15
+4152234,Ecl,False,15
+4152448,Ecl,False,16
+4154491,rotational star,False,13
+4157047,Ecl,False,20
+4157465,rotational star,False,25
+4163984,rotational star,False,16
+4165504,rotational star,False,15
+4165556,rotational star,False,15
+4202106,rotational star,False,21
+4202285,rotational star,False,18
+4203615,Pulsating,False,15
+4203738,rotational star,False,16
+4203764,Pulsating,False,15
+4204460,Ecl,False,25
+4204543,Ecl,False,22
+4204699,Ecl,False,24
+4204745,Ecl,False,26
+4204760,rotational star,False,16
+4204790,rotational star,False,25
+4205438,rotational star,False,18
+4205759,rotational star,False,16
+4207350,Ecl,False,17
+4219811,Pulsating,False,14
+4220347,Ecl,False,16
+4220437,rotational star,False,14
+4221224,rotational star,False,18
+4221685,Pulsating,False,18
+4222140,Pulsating,False,20
+4222204,Ecl,False,16
+4222265,Pulsating,False,15
+4230288,rotational star,False,15
+4232643,Pulsating,False,12
+4232752,Pulsating,False,13
+4247530,rotational star,False,18
+4266221,Pulsating,False,15
+4266254,rotational star,False,20
+4268448,rotational star,False,17
+4268603,Ecl,False,17
+4268759,Ecl,False,17
+4269136,Pulsating,False,16
+4269492,Ecl,False,17
+4270548,rotational star,False,17
+4272041,Ecl,False,25
+4318493,Ecl,False,17
+4319767,Ecl,False,16
+4320073,Pulsating,False,17
+4320406,Pulsating,False,20
+4320733,rotational star,False,17
+4321371,rotational star,False,19
+4322722,Ecl,False,20
+4323524,rotational star,False,16
+4323577,rotational star,False,19
+4326154,Ecl,False,17
+4327369,Ecl,False,15
+4327679,rotational star,False,13
+4468898,Ecl,False,19
+4501986,Pulsating,False,15
+4503100,Ecl,False,14
+4503543,Ecl,False,15
+4503720,rotational star,False,15
+4503752,rotational star,False,15
+4504299,Ecl,False,13
+4504350,Ecl,False,16
+4504450,rotational star,False,16
+4505350,rotational star,False,17
+4506346,Ecl,False,19
+4525993,Ecl,False,16
+4529698,Pulsating,False,17
+4529974,Ecl,False,15
+4529988,Pulsating,False,18
+4530813,Pulsating,False,14
+4531005,Ecl,False,14
+4531285,Ecl,False,14
+4555438,rotational star,False,20
+4555634,rotational star,False,15
+4556326,rotational star,False,19
+4557912,rotational star,False,18
+4558576,Ecl,False,22
+4558584,rotational star,False,22
+4558756,rotational star,False,20
+4559117,rotational star,False,18
+4559734,Pulsating,False,16
+4560178,rotational star,False,25
+4560436,rotational star,False,21
+4561933,Ecl,False,13
+4561956,rotational star,False,12
+4562521,Pulsating,False,17
+4562612,Pulsating,False,19
+4562628,rotational star,False,17
+4563359,Ecl,False,14
+4563463,Pulsating,False,15
+4564992,rotational star,False,20
+4565091,Pulsating,False,19
+4566339,Pulsating,False,14
+4567403,Ecl,False,17
+4567648,rotational star,False,18
+4567961,Pulsating,False,14
+4568345,Pulsating,False,16
+4569641,Pulsating,False,20
+4602673,Ecl,False,18
+4603259,Pulsating,False,21
+4616836,Pulsating,False,15
+4617347,rotational star,False,14
+4617532,Pulsating,False,16
+4617815,rotational star,False,17
+4618241,rotational star,False,16
+4619318,Pulsating,False,15
+4619652,Pulsating,False,18
+4620115,rotational star,False,16
+4620388,rotational star,False,16
+4620570,rotational star,False,17
+4626941,rotational star,False,19
+4627821,rotational star,False,15
+4716237,Ecl,False,14
+4720963,Pulsating,False,17
+4723469,Pulsating,False,15
+4989226,Ecl,False,16
+4989912,rotational star,False,17
+4990201,Pulsating,False,18
+4990534,Ecl,False,15
+4990915,Pulsating,False,17
+4991083,Ecl,False,13
+4992303,rotational star,False,17
+4993494,Pulsating,False,18
+4994274,Pulsating,False,15
+4994551,rotational star,False,18
+4996067,rotational star,False,13
+5103090,rotational star,False,19
+5108781,Ecl,False,17
+5109301,Ecl,False,20
+5119390,Ecl,False,21
+5119471,rotational star,False,18
+5119518,Ecl,False,19
+5120506,Pulsating,False,15
+5121047,Ecl,False,16
+5121051,rotational star,False,17
+5122590,Ecl,False,13
+5125286,Ecl,False,15
+5183708,Ecl,False,16
+5229059,Ecl,False,19
+5229099,rotational star,False,25
+5230304,rotational star,False,15
+5230455,Ecl,False,16
+5230789,Ecl,False,16
+5231192,Pulsating,False,16
+5231304,Pulsating,False,16
+5231414,rotational star,False,15
+5232017,rotational star,False,18
+5232586,Ecl,False,17
+5284944,Ecl,False,21
+5285064,Ecl,False,14
+5285390,Ecl,False,20
+5370414,Ecl,False,22
+5387273,Pulsating,False,18
+5387464,Ecl,False,21
+5388752,Ecl,False,22
+5388985,rotational star,False,21
+5389578,Ecl,False,18
+5400617,Ecl,False,14
+5403672,Ecl,False,13
+5403826,rotational star,False,17
+5403891,Pulsating,False,14
+5404247,Pulsating,False,17
+5404815,Ecl,False,17
+5407922,Ecl,False,15
+5411253,Ecl,False,18
+5411324,rotational star,False,17
+5412626,rotational star,False,16
+5413328,Pulsating,False,19
+5413438,Pulsating,False,19
+5415208,rotational star,False,20
+5416842,Ecl,False,19
+5446585,rotational star,False,20
+5446648,rotational star,False,20
+5446653,Ecl,False,19
+5448059,Ecl,False,17
+5451001,Ecl,False,19
+5452287,Ecl,False,18
+5453649,Ecl,False,25
+5497547,Pulsating,False,8
+5498176,Pulsating,False,16
+5502345,Pulsating,False,14
+5502401,Pulsating,False,10
+5543393,Ecl,False,20
+5551469,rotational star,False,19
+5552243,Pulsating,False,21
+5553338,Ecl,False,15
+5554190,Pulsating,False,15
+5555406,Pulsating,False,13
+5556361,Ecl,False,16
+5575930,Ecl,False,13
+5601765,Ecl,False,16
+5701570,rotational star,False,17
+5702699,Ecl,False,18
+5703159,Ecl,False,16
+5703162,Ecl,False,19
+5704161,Ecl,False,19
+5748902,rotational star,False,16
+5749047,Ecl,False,18
+5802736,Pulsating,False,16
+5802790,Ecl,False,15
+5803027,Ecl,False,17
+5804289,Ecl,False,15
+5804658,Ecl,False,14
+5807094,rotational star,False,15
+5830471,Ecl,False,16
+5836693,Ecl,False,18
+5836875,Pulsating,False,14
+5838015,rotational star,False,19
+5838126,rotational star,False,18
+5838169,rotational star,False,21
+5838220,rotational star,False,19
+5838315,Pulsating,False,23
+5838622,rotational star,False,18
+5838672,rotational star,False,19
+5839093,Pulsating,False,23
+5839101,Pulsating,False,21
+5839538,Pulsating,False,20
+5840495,Pulsating,False,18
+5840880,Pulsating,False,17
+5841268,Pulsating,False,21
+5841545,rotational star,False,23
+5841559,rotational star,False,25
+5842585,Pulsating,False,19
+5842809,rotational star,False,19
+5855159,Pulsating,False,19
+6035659,rotational star,False,14
+6048675,Pulsating,False,15
+6050395,Ecl,False,15
+6052526,Ecl,False,13
+6243964,Pulsating,False,17
+6251007,Ecl,False,16
+6281459,rotational star,False,14
+6320510,Ecl,False,24
+6321074,Pulsating,False,26
+6322787,rotational star,False,15
+6324101,Ecl,False,19
+6329849,rotational star,False,16
+6332255,Ecl,False,15
+6334546,Ecl,False,19
+6339008,Pulsating,False,15
+6340386,rotational star,False,18
+6342912,Ecl,False,17
+6384545,Ecl,False,15
+6384849,Pulsating,False,16
+6385117,Pulsating,False,13
+6385201,Ecl,False,16
+6385704,Ecl,False,15
+6385706,Pulsating,False,14
+6386002,rotational star,False,18
+6386441,rotational star,False,12
+6386697,rotational star,False,15
+6387940,Pulsating,False,20
+6388094,rotational star,False,20
+6388611,Pulsating,False,19
+6388710,rotational star,False,18
+6417890,Ecl,False,22
+6418421,Ecl,False,23
+6420588,Ecl,False,18
+6420800,Ecl,False,21
+6421462,Ecl,False,17
+6421945,Pulsating,False,10
+6422961,Ecl,False,15
+6423392,Ecl,False,14
+6423500,Ecl,False,14
+6423659,Ecl,False,18
+6424179,Ecl,False,18
+6424280,Ecl,False,17
+6424598,Ecl,False,15
+6426339,Ecl,False,18
+6426352,Ecl,False,11
+6426366,Pulsating,False,15
+6426729,Ecl,False,16
+6426741,Pulsating,False,11
+6427086,rotational star,False,16
+6427402,Ecl,False,16
+6428649,Ecl,False,16
+6428939,Ecl,False,16
+6430298,Ecl,False,18
+6430426,Pulsating,False,16
+6430859,Ecl,False,13
+6435198,Pulsating,False,21
+6451729,Ecl,False,17
+6452260,Ecl,False,19
+6452926,Ecl,False,19
+6452939,rotational star,False,19
+6453909,Pulsating,False,21
+6453989,Pulsating,False,16
+6454798,rotational star,False,20
+6454805,rotational star,False,20
+6454975,Pulsating,False,22
+6455934,Pulsating,False,14
+6456211,rotational star,False,20
+6456916,rotational star,False,22
+6457080,rotational star,False,21
+6558698,Pulsating,False,16
+6559105,rotational star,False,17
+6567096,Pulsating,False,16
+6576787,Pulsating,False,21
+6576943,Ecl,False,16
+6577509,Ecl,False,15
+6578144,Pulsating,False,17
+6578876,Pulsating,False,16
+6582868,Pulsating,False,18
+6656938,Ecl,False,18
+6656959,Ecl,False,15
+6658051,rotational star,False,18
+6708716,rotational star,False,19
+6708819,Pulsating,False,15
+6709328,Pulsating,False,19
+6709986,Ecl,False,19
+6710210,rotational star,False,14
+6711028,Ecl,False,22
+6711345,Pulsating,False,18
+6711799,Pulsating,False,21
+6712108,Pulsating,False,23
+6712252,rotational star,False,21
+6712505,rotational star,False,18
+6712584,Pulsating,False,19
+6739694,Ecl,False,17
+6766899,Ecl,False,18
+6769695,Ecl,False,15
+6771481,Pulsating,False,20
+6772137,rotational star,False,18
+6772717,Pulsating,False,16
+6772757,rotational star,False,20
+6772868,rotational star,False,15
+6773037,rotational star,False,18
+6774100,Pulsating,False,17
+6774272,Pulsating,False,20
+6775497,rotational star,False,19
+6775810,Pulsating,False,14
+6775890,Pulsating,False,19
+6776179,Pulsating,False,17
+6776202,Pulsating,False,17
+6776545,Pulsating,False,19
+6776575,Ecl,False,22
+6795847,Ecl,False,14
+6853592,Ecl,False,17
+6885169,Ecl,False,22
+6885233,rotational star,False,23
+6885262,Pulsating,False,21
+6885272,Ecl,False,25
+6885471,Pulsating,False,21
+6885726,Ecl,False,21
+6886254,Ecl,False,19
+6886679,rotational star,False,23
+6887380,Ecl,False,17
+6887869,Ecl,False,19
+6888668,Ecl,False,23
+6888687,rotational star,False,24
+6898568,rotational star,False,15
+6900401,rotational star,False,18
+6901057,Ecl,False,19
+6901157,Pulsating,False,16
+6901524,rotational star,False,18
+6901938,Pulsating,False,18
+6902134,rotational star,False,16
+6902706,rotational star,False,20
+6903872,Pulsating,False,19
+6904628,Ecl,False,20
+6905427,Ecl,False,19
+6913726,rotational star,False,13
+6914940,rotational star,False,13
+6914961,rotational star,False,12
+6935829,rotational star,False,13
+6939337,Ecl,False,18
+6950970,Pulsating,False,13
+6964118,Pulsating,False,18
+6964557,Ecl,False,14
+6964581,Pulsating,False,18
+6968029,Ecl,False,16
+6968264,Pulsating,False,18
+6970333,rotational star,False,19
+6970379,rotational star,False,18
+6971276,Pulsating,False,19
+6971505,rotational star,False,16
+6971792,Ecl,False,17
+6974018,Ecl,False,17
+6976195,Ecl,False,15
+6986684,rotational star,False,16
+6995226,Ecl,False,19
+7070074,Ecl,False,16
+7070781,rotational star,False,17
+7071158,rotational star,False,16
+7071443,Pulsating,False,13
+7072651,rotational star,False,17
+7074195,Ecl,False,14
+7074364,Pulsating,False,15
+7075075,rotational star,False,17
+7076796,Pulsating,False,14
+7077326,Ecl,False,19
+7078316,Ecl,False,26
+7107905,Pulsating,False,13
+7108115,rotational star,False,15
+7108859,Ecl,False,14
+7109399,Ecl,False,16
+7109820,Pulsating,False,14
+7124520,Pulsating,False,18
+7124995,rotational star,False,21
+7125146,Ecl,False,17
+7125249,Pulsating,False,20
+7125546,Pulsating,False,20
+7125563,rotational star,False,21
+7125765,Pulsating,False,21
+7126295,Pulsating,False,17
+7127071,rotational star,False,17
+7127238,Pulsating,False,18
+7127722,Ecl,False,19
+7210657,Ecl,False,16
+7216188,Ecl,False,13
+7216267,Ecl,False,14
+7216705,Ecl,False,14
+7217281,rotational star,False,16
+7220555,Ecl,False,16
+7221127,rotational star,False,16
+7222035,rotational star,False,19
+7222925,Ecl,False,22
+7223147,Ecl,False,14
+7223975,Ecl,False,20
+7223998,Ecl,False,19
+7224437,Ecl,False,24
+7224641,Pulsating,False,19
+7257067,Pulsating,False,20
+7337693,Ecl,False,18
+7337783,Pulsating,False,16
+7338025,Ecl,False,15
+7338134,Ecl,False,20
+7348139,Pulsating,False,16
+7348645,Pulsating,False,19
+7348693,rotational star,False,19
+7366942,Pulsating,False,11
+7437296,rotational star,False,22
+7437374,Ecl,False,22
+7438204,Pulsating,False,18
+7438439,Pulsating,False,9
+7438598,Pulsating,False,18
+7438683,Ecl,False,17
+7439873,Ecl,False,18
+7439899,Pulsating,False,20
+7440327,Pulsating,False,17
+7442130,Pulsating,False,14
+7442275,Ecl,False,16
+7442998,rotational star,False,16
+7443459,Ecl,False,15
+7443675,Pulsating,False,14
+7444924,Ecl,False,16
+7445268,Pulsating,False,17
+7445591,rotational star,False,23
+7470754,Pulsating,False,15
+7533051,Ecl,False,15
+7565508,Ecl,False,20
+7565670,rotational star,False,21
+7566107,Ecl,False,16
+7567558,rotational star,False,22
+7568349,Pulsating,False,22
+7569477,Pulsating,False,22
+7569518,Pulsating,False,21
+7569803,rotational star,False,18
+7570243,rotational star,False,17
+7570813,Pulsating,False,20
+7576919,Pulsating,False,14
+7583312,Pulsating,False,18
+7583531,rotational star,False,14
+7626069,Ecl,False,19
+7626652,Ecl,False,18
+7626747,rotational star,False,14
+7641751,Pulsating,False,20
+7727005,rotational star,False,16
+7727469,Pulsating,False,18
+7727662,rotational star,False,16
+7728538,Pulsating,False,20
+7730060,Ecl,False,17
+7730513,Pulsating,False,10
+7730714,Pulsating,False,18
+7774103,Ecl,False,14
+7775830,Pulsating,False,15
+7823498,Ecl,False,17
+7823994,Ecl,False,17
+7824125,Ecl,False,13
+7882385,Ecl,False,14
+7883167,rotational star,False,14
+7895183,rotational star,False,14
+7895556,Pulsating,False,17
+7895929,Ecl,False,17
+7896356,Ecl,False,14
+7896452,Ecl,False,16
+7896648,Ecl,False,15
+7897069,Pulsating,False,15
+7898286,Ecl,False,14
+7898622,Ecl,False,17
+7898800,Pulsating,False,15
+7898810,Ecl,False,15
+7898858,Ecl,False,15
+7899663,rotational star,False,13
+7903764,Ecl,False,13
+7904203,Ecl,False,16
+7904889,Ecl,False,15
+7907155,Ecl,False,15
+7907460,Ecl,False,17
+7907540,Ecl,False,13
+7907839,Pulsating,False,17
+7908072,Pulsating,False,13
+7908534,Ecl,False,15
+7910252,rotational star,False,16
+7911028,Ecl,False,14
+7911225,Ecl,False,15
+7947845,Pulsating,False,13
+7948368,Ecl,False,18
+8047786,Ecl,False,14
+8068666,Pulsating,False,15
+8068842,Ecl,False,14
+8071429,Ecl,False,15
+8071881,Ecl,False,16
+8072240,Pulsating,False,16
+8072435,Pulsating,False,15
+8073438,Pulsating,False,13
+8074328,rotational star,False,14
+8074888,rotational star,False,16
+8075730,Pulsating,False,15
+8076116,Pulsating,False,15
+8076701,Ecl,False,22
+8077094,Ecl,False,24
+8077230,Ecl,False,25
+8082395,Pulsating,False,21
+8082471,rotational star,False,20
+8082552,Pulsating,False,20
+8083257,Pulsating,False,17
+8083426,Ecl,False,24
+8083768,Ecl,False,22
+8084106,Pulsating,False,21
+8085320,rotational star,False,23
+8085518,rotational star,False,20
+8086665,Ecl,False,27
+8086972,Ecl,False,20
+8087946,Ecl,False,16
+8089106,Ecl,False,16
+8089125,Pulsating,False,15
+8089619,Ecl,False,16
+8089705,rotational star,False,15
+8089854,rotational star,False,16
+8092746,Pulsating,False,15
+8093720,Ecl,False,17
+8095331,rotational star,False,14
+8098769,Ecl,False,14
+8233546,Ecl,False,16
+8234121,Pulsating,False,16
+8234397,Pulsating,False,11
+8259819,rotational star,False,24
+8260014,Ecl,False,29
+8260993,Pulsating,False,19
+8261091,rotational star,False,20
+8261516,Ecl,False,19
+8261562,Ecl,False,19
+8261582,rotational star,False,19
+8262856,Pulsating,False,18
+8263311,Pulsating,False,16
+8263430,Pulsating,False,20
+8298820,Ecl,False,19
+8299599,rotational star,False,18
+8300516,rotational star,False,19
+8301231,Ecl,False,19
+8301406,Pulsating,False,18
+8301688,rotational star,False,21
+8302040,Ecl,False,24
+8302414,Ecl,False,17
+8303969,rotational star,False,20
+8304398,rotational star,False,17
+8305219,Ecl,False,19
+8307548,Pulsating,False,20
+8315756,Pulsating,False,27
+8320284,Ecl,False,24
+8322462,Pulsating,False,25
+8331224,Ecl,False,15
+8332182,Pulsating,False,9
+8332271,rotational star,False,14
+8335030,Ecl,False,18
+8335368,rotational star,False,18
+8337085,Ecl,False,18
+8337585,rotational star,False,16
+8339159,Pulsating,False,17
+8393155,Ecl,False,20
+8393170,Ecl,False,15
+8393250,rotational star,False,18
+8393466,Ecl,False,16
+8393797,rotational star,False,17
+8394121,rotational star,False,15
+8394147,rotational star,False,19
+8394481,Pulsating,False,20
+8394767,Pulsating,False,17
+8395322,Ecl,False,19
+8395431,rotational star,False,19
+8395517,Ecl,False,16
+8395519,rotational star,False,18
+8395617,Ecl,False,20
+8395718,Pulsating,False,14
+8395893,Ecl,False,26
+8396121,Ecl,False,24
+8396331,Pulsating,False,18
+8396360,Ecl,False,27
+8412158,Pulsating,False,13
+8413061,Ecl,False,12
+8422352,rotational star,False,14
+8425025,Pulsating,False,15
+8425463,Pulsating,False,12
+8432779,rotational star,False,15
+8434259,rotational star,False,14
+8436241,Pulsating,False,16
+8542300,Pulsating,False,21
+8543863,rotational star,False,18
+8545757,rotational star,False,24
+8546412,rotational star,False,20
+8546961,Pulsating,False,18
+8564724,Ecl,False,20
+8568363,Ecl,False,19
+8649964,Pulsating,False,18
+8667230,rotational star,False,13
+8667502,Ecl,False,14
+8670012,Ecl,False,16
+8670455,rotational star,False,15
+8699916,Pulsating,False,15
+8699987,rotational star,False,19
+8700095,Ecl,False,19
+8700246,Pulsating,False,19
+8700320,Pulsating,False,19
+8700483,Ecl,False,21
+8700535,Pulsating,False,20
+8700892,Pulsating,False,20
+8701682,Pulsating,False,22
+8702423,Pulsating,False,20
+8702500,rotational star,False,17
+8702521,rotational star,False,20
+8702727,rotational star,False,23
+8704579,Pulsating,False,18
+8704610,Ecl,False,17
+8819196,Ecl,False,16
+8821912,Ecl,False,13
+8822653,Ecl,False,16
+8822978,Pulsating,False,19
+8823819,Ecl,False,15
+8825435,Ecl,False,16
+8825485,Ecl,False,15
+8826860,rotational star,False,18
+8826873,Ecl,False,19
+8827035,Ecl,False,17
+8827070,Ecl,False,16
+8828001,Ecl,False,17
+8829207,rotational star,False,14
+8829788,Pulsating,False,14
+8830717,Ecl,False,17
+8831470,Pulsating,False,20
+8833434,Pulsating,False,24
+8833576,Ecl,False,25
+8841633,Pulsating,False,16
+8862457,Pulsating,False,15
+8865247,rotational star,False,15
+8865289,Ecl,False,16
+8894179,Pulsating,False,17
+8895224,Pulsating,False,18
+8895274,Pulsating,False,16
+8895629,rotational star,False,21
+8896138,Ecl,False,16
+8896147,rotational star,False,19
+8896173,Ecl,False,18
+8896234,Pulsating,False,17
+8896298,rotational star,False,16
+8896887,Ecl,False,17
+8897858,Ecl,False,17
+8899537,Ecl,False,14
+8899594,Pulsating,False,16
+8899881,Pulsating,False,15
+8899939,rotational star,False,16
+8899980,rotational star,False,16
+8900411,Ecl,False,16
+8900711,Pulsating,False,14
+8900750,rotational star,False,17
+8901720,Pulsating,False,18
+8902536,Pulsating,False,18
+8902556,rotational star,False,15
+8903423,rotational star,False,17
+8903746,Ecl,False,15
+8909137,Pulsating,False,17
+8909809,Pulsating,False,14
+9001273,Ecl,False,13
+9001365,Ecl,False,15
+9002155,Pulsating,False,17
+9002177,Ecl,False,15
+9058102,Ecl,False,14
+9058337,Ecl,False,15
+9086627,Pulsating,False,15
+9087179,Pulsating,False,14
+9087235,Ecl,False,13
+9087352,Pulsating,False,16
+9088982,Pulsating,False,16
+9090968,Pulsating,False,15
+9210109,rotational star,True,7
+9251753,rotational star,False,17
+9252425,Pulsating,False,19
+9253617,rotational star,False,17
+9254197,Pulsating,False,18
+9322176,Ecl,False,13
+9381201,Ecl,False,18
+9381763,Pulsating,False,12
+9382525,rotational star,False,19
+9383083,Ecl,False,20
+9384895,Ecl,False,18
+9385226,rotational star,False,16
+9385654,rotational star,False,19
+9386210,Ecl,False,25
+9421023,Pulsating,False,12
+9421599,Pulsating,False,8
+9421913,Ecl,False,16
+9422650,rotational star,False,13
+9422977,Pulsating,False,15
+9423042,Pulsating,False,11
+9424274,Ecl,False,17
+9425767,Ecl,False,16
+9426593,rotational star,False,13
+9427365,Ecl,False,14
+9428064,rotational star,False,21
+9429099,Pulsating,False,20
+9431610,Ecl,False,18
+9434470,Ecl,False,16
+9439475,rotational star,False,17
+9441160,rotational star,False,15
+9450313,Pulsating,False,17
+9450736,Pulsating,False,19
+9450929,rotational star,False,20
+9452348,rotational star,False,19
+9453344,Pulsating,False,16
+9453622,Pulsating,False,19
+9454863,Ecl,False,23
+9456002,Pulsating,False,21
+9456270,rotational star,False,18
+9456525,Pulsating,False,17
+9456617,Pulsating,False,19
+9456813,Pulsating,False,19
+9457934,Pulsating,False,18
+9458579,Ecl,False,16
+9460839,Pulsating,False,16
+9643411,Ecl,False,14
+9643691,rotational star,False,17
+9643812,rotational star,False,18
+9644976,rotational star,False,15
+9649557,Ecl,False,17
+9650202,Ecl,False,16
+9651399,rotational star,False,18
+9652405,Pulsating,False,17
+9653645,rotational star,False,19
+9657617,Ecl,False,17
+9675295,Pulsating,False,17
+9675309,Ecl,False,20
+9708274,Pulsating,False,18
+9708371,rotational star,False,16
+9708710,Ecl,False,16
+9708918,Ecl,False,14
+9710004,Pulsating,False,15
+9710912,rotational star,False,16
+9711106,rotational star,False,15
+9711807,Ecl,False,18
+9711882,Ecl,False,14
+9824982,Ecl,False,17
+9851742,Ecl,False,16
+9857403,Ecl,False,18
+9861363,Pulsating,False,15
+9862976,Ecl,False,18
+9866814,rotational star,False,15
+9867488,Ecl,False,16
+9874771,Ecl,False,15
+9874894,Pulsating,False,12
+9954565,Ecl,False,20
+9955745,Ecl,False,12
+9956460,Ecl,False,15
+9956546,Ecl,False,19
+9956644,Ecl,False,20
+10034472,Ecl,False,21
+10034483,Ecl,False,21
+10034584,rotational star,False,15
+10045593,Pulsating,False,15
+10217188,rotational star,False,18
+10217273,rotational star,False,18
+10218333,Pulsating,False,21
+10219790,Ecl,False,19
+10220636,Pulsating,False,30
+10220956,Pulsating,False,17
+10221825,Pulsating,False,24
+10235536,Ecl,False,17
+10236927,Ecl,False,20
+10237366,Pulsating,False,13
+10237841,rotational star,False,17
+10239191,Pulsating,False,13
+10239273,rotational star,False,18
+10240177,Ecl,False,17
+10240912,Pulsating,False,19
+10244303,Ecl,False,17
+10250850,Ecl,False,23
+10354842,Pulsating,False,19
+10376566,Ecl,False,14
+10384900,Pulsating,False,20
+10477528,Ecl,False,15
+10493349,Ecl,False,27
+10493469,rotational star,False,22
+10493718,Ecl,False,25
+10493735,Ecl,False,27
+10493833,rotational star,False,27
+10496941,Pulsating,False,19
+10497491,Pulsating,False,15
+10498319,Ecl,False,18
+10498570,Ecl,False,19
+10500493,rotational star,False,20
+10500915,Ecl,False,17
+10501818,Pulsating,False,20
+10501955,Ecl,False,21
+10502034,Ecl,False,18
+10503264,Ecl,False,16
+10504051,Ecl,False,18
+10504130,Ecl,False,19
+10505166,rotational star,False,17
+10505469,Ecl,False,19
+10506123,Ecl,False,17
+10506299,rotational star,False,17
+10507674,rotational star,False,16
+10519140,Pulsating,False,15
+10520315,Ecl,False,14
+10542430,Ecl,False,16
+10542796,Ecl,False,14
+10543016,Ecl,False,18
+10543409,Ecl,False,16
+10544057,Ecl,False,17
+10675231,Pulsating,False,18
+10681939,Ecl,False,11
+10683246,rotational star,False,16
+10683347,rotational star,False,17
+10683387,Ecl,False,16
+10684029,rotational star,False,16
+10691077,Ecl,False,16
+10693578,Ecl,False,13
+10694849,Ecl,False,16
+10695093,Ecl,False,20
+10695604,Ecl,False,28
+10697645,Ecl,False,25
+10724744,Ecl,False,23
+10725648,Ecl,False,20
+10725909,Ecl,False,14
+10726559,rotational star,False,16
+10744167,Ecl,False,24
+10745759,rotational star,False,17
+10757580,rotational star,False,19
+10758214,Pulsating,False,16
+10758329,Pulsating,False,18
+10758622,Pulsating,False,15
+10759236,Pulsating,False,18
+10762635,Ecl,False,14
+10762758,Pulsating,False,17
+10764044,Ecl,False,17
+10772457,Ecl,False,21
+10774324,rotational star,False,21
+10774489,Pulsating,False,19
+10775003,Pulsating,False,20
+10775690,Ecl,False,21
+10778625,Ecl,False,21
+10778741,Ecl,False,23
+10779108,Ecl,False,13
+10779272,Pulsating,False,17
+10779490,Pulsating,False,19
+10780230,Ecl,False,16
+10781257,rotational star,False,20
+10781318,rotational star,False,17
+10781527,Ecl,False,23
+10781641,Ecl,False,19
+10781693,Pulsating,False,17
+10781754,Pulsating,False,14
+10782174,rotational star,False,24
+10782535,Pulsating,False,10
+10795329,Pulsating,False,17
+10796406,Ecl,False,18
+10797187,Ecl,False,21
+10797327,Pulsating,False,17
+10797522,Ecl,False,19
+10798587,rotational star,False,19
+10999140,Pulsating,False,10
+10999288,rotational star,False,12
+10999667,Ecl,False,13
+11000456,Pulsating,False,11
+11000690,Pulsating,True,7
+11001740,Ecl,False,14
+11001765,Ecl,False,16
+11001884,rotational star,False,12
+11002179,Ecl,False,11
+11003680,Pulsating,True,7
+11007137,Ecl,False,18
+11007234,Pulsating,False,18
+11007265,Ecl,False,18
+11008744,Ecl,False,16
+11009101,Ecl,False,16
+11011121,Pulsating,False,14
+11013770,Pulsating,False,17
+11103477,rotational star,False,18
+11130442,Pulsating,False,14
+11281544,Ecl,False,18
+11281753,Ecl,False,13
+11283620,Ecl,False,17
+11330091,Pulsating,False,14
+11330676,Pulsating,False,18
+11331078,rotational star,False,15
+11331222,rotational star,False,17
+11331243,Ecl,False,18
+11331797,Ecl,False,18
+11332217,Ecl,False,17
+11332457,Pulsating,False,15
+11333675,Ecl,False,19
+11333752,Pulsating,False,16
+11388855,Ecl,False,17
+11512052,Ecl,False,19
+11512067,Ecl,False,18
+11522127,Pulsating,False,17
+11527909,Ecl,False,19
+11542047,Pulsating,False,19
+11566495,Ecl,False,19
+11566774,Pulsating,False,19
+11566988,Pulsating,False,19
+11567147,Pulsating,False,13
+11568132,Pulsating,False,17
+11569336,Ecl,False,17
+11569354,Pulsating,False,14
+11569837,Pulsating,False,14
+11569977,Pulsating,False,17
+11572714,rotational star,False,17
+11582843,Ecl,False,17
+11583637,Pulsating,False,16
+11585007,Pulsating,False,21
+11618917,Ecl,False,29
+11619060,Pulsating,False,28
+11619156,Pulsating,False,24
+11619555,Pulsating,False,23
+11620070,Pulsating,False,20
+11620130,Pulsating,False,20
+11620334,Pulsating,False,21
+11620849,Ecl,False,18
+11621089,Ecl,False,19
+11621668,rotational star,False,18
+11622276,Ecl,False,22
+11756280,Ecl,False,20
+11757532,Pulsating,False,18
+11759538,rotational star,False,15
+11767612,rotational star,False,19
+11767831,Ecl,False,16
+11769119,rotational star,False,16
+11769623,Pulsating,False,17
+11771742,Ecl,False,20
+11772275,Pulsating,False,19
+11772535,rotational star,False,15
+11773942,Pulsating,False,19
+11774091,rotational star,False,21
+11775013,Pulsating,False,17
+11775317,Ecl,False,16
+11775602,rotational star,False,12
+11776356,rotational star,False,20
+11776690,rotational star,False,21
+11777709,Ecl,False,19
+11777950,Ecl,False,23
+11778107,Ecl,False,20
+11780339,Ecl,False,19
+11781845,rotational star,False,17
+11896983,Ecl,False,17
+11922285,Ecl,False,15
+11931277,rotational star,False,17
+11937619,Pulsating,False,18
+11942497,Pulsating,False,15
+11942722,Pulsating,False,19
+11943720,Ecl,False,15
+12066656,Pulsating,False,19
+12067010,Pulsating,False,16
+12068202,Pulsating,False,13
+12071937,rotational star,False,18
+12074305,Pulsating,False,13
+12074656,rotational star,False,21
+12075609,Pulsating,False,18
+12077861,rotational star,False,20
+12080401,Ecl,False,17
+12082661,Ecl,False,17
+12256071,Ecl,False,17
+12256111,Ecl,False,14
+12256223,Ecl,False,17
+12256569,rotational star,False,14
+12257055,Ecl,False,15
+12257100,Pulsating,False,16
+12258499,Pulsating,False,16
+12258668,Ecl,False,17
+12258929,Pulsating,False,16
+12261159,Ecl,False,18
+12261398,Ecl,False,14
+12369096,Ecl,False,11
+12370652,rotational star,False,16
+12372134,Ecl,False,17
+12372670,Pulsating,False,16
+12372905,Pulsating,False,17
+12372966,Pulsating,False,15
+12373303,Ecl,False,17
+12373379,Pulsating,False,15
+12373785,Ecl,False,15
+12374282,Ecl,False,14
+12374400,Pulsating,False,15
+12374828,Ecl,False,17
+12375010,Ecl,False,17
+12377666,Ecl,False,17
+12379950,Pulsating,False,13
+12380680,rotational star,False,15
+12381065,Pulsating,False,17
+12385076,Pulsating,False,15
+12385141,Pulsating,False,15
+12387794,rotational star,False,16
+12388154,rotational star,False,17
+12389796,rotational star,False,19
+12391617,rotational star,False,19
+12394941,Pulsating,False,21
+12396137,rotational star,False,15
+12397628,Pulsating,False,18
+12397793,rotational star,False,15
+12399483,Ecl,False,19
+12400225,Ecl,False,21
+12428055,Ecl,False,18
+12428154,rotational star,False,18
+12428514,rotational star,False,19
+12429757,Pulsating,False,10
+12430524,Ecl,False,22
+12430621,Ecl,False,20
+12455147,Pulsating,False,16
+12456197,Ecl,False,15
+12458201,Pulsating,False,17
+12458346,rotational star,False,18
+12458470,Ecl,False,20
+12458676,Ecl,False,19
+12458809,Pulsating,False,16
+12458863,rotational star,False,18
+12459274,Ecl,False,22
+12459323,rotational star,False,18
+12460558,Ecl,False,20
+12461215,rotational star,False,19
+12461844,Pulsating,False,16
+12470000,Ecl,False,22
+12470242,Ecl,False,16
+12472170,rotational star,False,16
+12475158,Ecl,False,16
+12476950,rotational star,False,15
+12481937,rotational star,False,15
+12485558,Ecl,False,18
+12485990,Ecl,False,20
+12486010,Ecl,False,17
+12486028,Pulsating,False,14
+12487006,rotational star,False,18
+12501360,Ecl,False,25
+12502645,rotational star,False,15
+12502942,Ecl,False,15
+12503536,Ecl,False,16
+12503915,Pulsating,False,16
+12506476,Ecl,False,17
+12506794,rotational star,False,15
+12623479,Pulsating,False,14
+12624102,Pulsating,False,14
+12624324,Pulsating,False,15
+12629618,Ecl,False,18
+12629856,Ecl,False,15
+12630623,rotational star,False,15
+12632305,rotational star,False,17
+12644829,rotational star,False,14
+12644912,rotational star,False,14
+12644929,Ecl,False,11
+12644939,Pulsating,False,16
+12644999,rotational star,False,15
+12645321,rotational star,False,19
+12645886,rotational star,False,19
+12825744,rotational star,False,14
+12827079,Ecl,False,18
+12827172,rotational star,False,17
+12827303,Ecl,False,18
+12828861,Ecl,False,18
+12830670,Ecl,False,18
+12832709,rotational star,False,18
+12833109,Ecl,False,17
+12985156,Ecl,False,16
+12985266,rotational star,False,19
+12986116,Pulsating,False,15
+12986234,Pulsating,False,15
+12987403,rotational star,False,16
+12987544,Pulsating,False,15
+12987610,Pulsating,False,13
+12988288,rotational star,False,24
+13086137,Pulsating,False,17
+13086739,Pulsating,False,17
+13087081,Ecl,False,16
+13087231,Pulsating,False,12
+13087516,rotational star,False,15
+13088029,Pulsating,False,18
+13163573,Pulsating,False,16
+13198852,Pulsating,False,21
+13199413,rotational star,False,20
+13206347,rotational star,False,20
+13207875,Pulsating,False,17
+13207951,Pulsating,False,18
+13208078,Pulsating,False,21
+13208778,Pulsating,False,19
+13208782,Pulsating,False,16
+13209911,rotational star,False,21
+13210034,Pulsating,False,17
+13210065,Pulsating,False,22
+13210171,Ecl,False,23
+13210452,rotational star,False,18
+13210823,Pulsating,False,16
+13242181,Pulsating,True,7
+13242895,Pulsating,True,6
+13276515,rotational star,False,24
+13276565,Pulsating,False,24
+13276733,Pulsating,False,21
+13277558,Pulsating,False,15
+13278614,Pulsating,False,20
+13279148,Ecl,False,20
+13280032,rotational star,False,19
+13281056,Pulsating,False,17
+13377618,rotational star,False,14
+13383185,rotational star,False,14
+13383287,rotational star,False,18
+13383409,Pulsating,False,20
+13385971,Pulsating,False,17
+13386010,rotational star,False,18
+13388620,Ecl,False,18
+13389119,Ecl,False,17
+13389615,Ecl,False,16
+13389746,Pulsating,False,11
+13390885,Ecl,False,16
+13391126,Pulsating,False,13
+13391261,Ecl,False,18
+13392690,rotational star,False,17
+13397690,rotational star,False,11
+13397738,Pulsating,False,16
+13398192,Ecl,False,17
+13402469,Pulsating,False,14
+13528990,Ecl,False,21
+13530333,Ecl,False,23
+13532173,Pulsating,False,18
+13612155,Pulsating,False,14
+13613101,Ecl,False,15
+13613357,rotational star,False,18
+13613460,Ecl,False,16
+13614088,rotational star,False,17
+13638859,rotational star,False,21
+13639168,Ecl,False,22
+13639219,Ecl,False,21
+13642058,rotational star,False,18
+13642862,Pulsating,False,19
+13654275,Ecl,False,17
+13654537,Pulsating,False,8
+13654628,Ecl,False,19
+13655331,Ecl,False,17
+13655440,Pulsating,False,16
+13655974,Ecl,False,16
+13728725,Ecl,False,16
+13729475,Pulsating,False,14
+13730176,Ecl,False,13
+13731074,Ecl,False,14
+13731178,rotational star,False,17
+13751687,Pulsating,False,23
+13831952,rotational star,False,24
+13833585,rotational star,False,21
+14021974,Ecl,False,19
+14022706,rotational star,False,18
+14022970,Ecl,False,16
+14023770,Pulsating,False,19
+14024188,Pulsating,False,16
+14025549,rotational star,False,17
+14025916,Ecl,False,16
+14230613,Pulsating,False,21
+14244526,rotational star,False,8
+14462866,Ecl,False,18
+14505676,Pulsating,False,23
+14506569,Ecl,False,22
+14506614,Ecl,False,22
+14506922,Ecl,False,19
+14507025,Ecl,False,20
+14521032,Ecl,False,18
+14691730,Pulsating,False,9
+14692610,Pulsating,False,14
+14693174,Pulsating,False,16
+14736855,Ecl,False,17
+14737597,rotational star,False,17
+14738575,Pulsating,False,18
+14738798,Pulsating,False,15
+14739564,rotational star,False,14
+14740555,rotational star,False,16
+14740870,rotational star,False,13
+14740939,Ecl,False,16
+14741764,Ecl,False,14
+15005394,rotational star,False,15
+15130106,Pulsating,False,18
+15130664,Pulsating,False,17
+15133177,Pulsating,False,18
+15134517,Pulsating,False,17
+15134608,Ecl,False,16
+15135391,Ecl,False,16
+15135521,rotational star,False,17
+15136616,rotational star,False,15
+15137022,Pulsating,False,17
+15200820,Ecl,False,13
+15201345,Pulsating,False,17
+15211789,Pulsating,False,14
+15212230,Ecl,False,18
+15213943,rotational star,False,15
+15215637,Ecl,False,16
+15217578,rotational star,False,14
+15220558,rotational star,False,15
+15221797,rotational star,False,16
+15516051,rotational star,False,20
+15516085,Ecl,False,19
+15516160,Ecl,False,18
+15516254,Ecl,False,16
+15516751,Pulsating,False,10
+15517603,Ecl,False,22
+15597494,rotational star,False,19
+15597796,Pulsating,False,18
+15597839,Pulsating,False,16
+15597867,rotational star,False,19
+15598458,rotational star,False,18
+15599936,Ecl,False,18
+15600345,Pulsating,False,23
+15601545,rotational star,False,26
+15616791,rotational star,False,16
+15850646,Pulsating,False,11
+15850657,Pulsating,False,15
+15850732,Ecl,False,17
+15851022,Pulsating,False,16
+15851871,Pulsating,False,22
+15851908,Ecl,False,17
+16014078,Ecl,False,17
+16014617,rotational star,False,15
+16015434,Ecl,False,16
+16015562,Ecl,False,16
+16017205,Pulsating,False,16
+16019390,Pulsating,False,19
+16020079,Pulsating,False,14
+16023201,Pulsating,False,18
+16023235,Ecl,False,23
+16024382,Pulsating,False,17
+16025148,Pulsating,False,15
+16025636,rotational star,False,16
+16026174,Pulsating,False,16
+16027803,Pulsating,False,19
+16028452,Pulsating,False,17
+16029489,Ecl,False,17
+16030990,Pulsating,False,19
+16041487,rotational star,False,13
+16069049,Pulsating,False,12
+16069152,Pulsating,False,15
+16069199,rotational star,False,17
+16069534,Ecl,False,14
+16070289,Ecl,False,16
+16070460,Ecl,False,17
+16070820,Pulsating,False,14
+16129494,Ecl,False,18
+16151233,Pulsating,False,23
+16181266,Ecl,False,16
+16183532,Ecl,False,17
+16190605,Ecl,False,19
+16190988,Ecl,False,23
+16191604,Ecl,False,11
+16191679,Ecl,False,18
+16192527,Pulsating,False,17
+16192999,Ecl,False,17
+16193174,rotational star,False,19
+16193408,Ecl,False,18
+16195962,Ecl,False,18
+16196009,Pulsating,False,20
+16196034,Ecl,False,18
+16196259,rotational star,False,18
+16196927,Ecl,False,14
+16196962,Ecl,False,20
+16197210,Pulsating,False,17
+16197293,Ecl,False,19
+16197428,Ecl,False,17
+16197570,rotational star,False,17
+16199371,Pulsating,False,21
+16201007,Ecl,False,26
+16344798,Pulsating,False,11
+16346242,Ecl,False,17
+16346532,Ecl,False,12
+16383690,Ecl,False,16
+16384281,Pulsating,False,17
+16384375,Ecl,False,13
+16385363,Ecl,False,15
+16385436,Pulsating,False,14
+16385521,Ecl,False,16
+16385804,Pulsating,False,16
+16523984,Ecl,False,14
+16524508,Pulsating,False,13
+16524653,Pulsating,False,13
+16524755,rotational star,False,16
+16524797,Pulsating,False,18
+16524927,Ecl,False,17
+16525820,rotational star,False,15
+16526833,Pulsating,False,16
+16536773,Pulsating,False,18
+16536879,Pulsating,False,19
+16537786,Ecl,False,16
+16537858,Ecl,False,17
+16538198,Pulsating,False,19
+16538585,Pulsating,False,16
+16538906,rotational star,False,13
+16539212,Pulsating,False,16
+16651735,rotational star,False,16
+16651910,Pulsating,False,18
+16651968,Pulsating,False,13
+16652319,rotational star,False,18
+16653594,Ecl,False,17
+16653829,Ecl,False,15
+16653951,rotational star,False,17
+16654438,rotational star,False,14
+16654741,Ecl,False,19
+16655178,rotational star,False,17
+16655581,Pulsating,False,17
+16655715,rotational star,False,15
+16655998,Pulsating,False,17
+16657969,Pulsating,False,16
+16658005,rotational star,False,15
+16658118,Pulsating,False,16
+16658180,Ecl,False,18
+16658450,Pulsating,False,18
+16658572,Ecl,False,17
+16732189,Pulsating,False,21
+16732464,rotational star,False,19
+16738518,Pulsating,False,18
+16738839,Ecl,False,19
+16765635,Pulsating,False,16
+16765737,rotational star,False,14
+16765870,Ecl,False,17
+16766005,Pulsating,False,15
+16766402,Ecl,False,16
+16766439,Pulsating,False,18
+16766939,rotational star,False,15
+16767076,Pulsating,False,15
+16767181,Ecl,False,15
+16767478,Ecl,False,17
+16767505,Ecl,False,16
+16787173,Pulsating,False,20
+16801765,Pulsating,False,22
+16805103,Ecl,False,14
+16805321,Pulsating,False,15
+16806494,Ecl,False,17
+16806833,Ecl,False,16
+16808369,Ecl,False,15
+16809098,Pulsating,False,16
+16809873,Pulsating,False,14
+16810259,Ecl,False,16
+16810385,Pulsating,False,15
+16810896,Ecl,False,16
+16811132,rotational star,False,14
+16814727,rotational star,False,17
+16815665,Pulsating,False,17
+16815904,Pulsating,False,16
+16816704,Pulsating,False,17
+16818208,Pulsating,False,11
+16818531,rotational star,False,16
+16819405,Ecl,False,27
+16843720,Ecl,False,18
+16844332,Ecl,False,15
+16845338,rotational star,False,18
+16847653,Ecl,False,13
+16848595,Ecl,False,15
+16851429,Pulsating,False,12
+16868804,Pulsating,False,16
+16955892,rotational star,False,17
+16956216,Pulsating,False,16
+16957061,Pulsating,False,16
+16957595,Ecl,False,13
+16958072,Ecl,False,17
+16958154,Ecl,False,17
+16958954,rotational star,False,19
+16989421,Pulsating,False,17
+16990224,Ecl,False,18
+17139277,Ecl,False,18
+17140336,Pulsating,False,17
+17142602,Ecl,False,21
+17143734,rotational star,False,19
+17143971,Pulsating,False,19
+17144966,rotational star,False,19
+17144986,Ecl,False,22
+17168309,rotational star,False,17
+17168332,Ecl,False,18
+17168788,rotational star,False,17
+17171512,rotational star,False,21
+17171545,rotational star,False,15
+17171630,Ecl,False,17
+17171765,Ecl,False,20
+17171915,Pulsating,False,19
+17172000,Ecl,False,17
+17172258,rotational star,False,19
+17172959,rotational star,False,12
+17173082,rotational star,False,17
+17173355,rotational star,False,14
+17173556,Ecl,False,18
+17173610,Pulsating,False,19
+17173848,Pulsating,False,17
+17173876,rotational star,False,15
+17174897,Ecl,False,16
+17174959,Pulsating,False,26
+17204841,Ecl,False,14
+17207486,Pulsating,False,18
+17207646,rotational star,False,17
+17328837,Pulsating,False,17
+17332086,rotational star,False,14
+17393810,Pulsating,False,20
+17394296,Pulsating,False,22
+17395501,Ecl,False,19
+17395619,Ecl,False,21
+17483546,Ecl,False,14
+17486534,Pulsating,False,9
+17486554,Pulsating,False,16
+17486654,Pulsating,False,16
+17486976,Ecl,False,18
+17487182,Pulsating,False,16
+17487202,rotational star,False,18
+17487267,Ecl,False,21
+17487538,Pulsating,False,15
+17487542,Pulsating,False,15
+17487943,Ecl,False,17
+17488151,rotational star,False,16
+17488708,Pulsating,False,16
+17488899,Pulsating,False,18
+17489885,rotational star,False,18
+17492316,Ecl,False,14
+17565697,rotational star,False,15
+17568455,rotational star,False,19
+17568778,rotational star,False,17
+17570784,Ecl,False,19
+17571053,Pulsating,False,14
+17571403,Ecl,False,15
+17576796,rotational star,False,15
+17584219,rotational star,False,24
+17585884,Pulsating,False,25
+17656786,Pulsating,False,17
+17665822,Pulsating,False,21
+17668303,rotational star,False,18
+17668765,rotational star,False,19
+17683753,Pulsating,False,15
+17704560,Ecl,False,18
+17705241,Pulsating,False,13
+17775926,Ecl,False,20
+17776063,Ecl,False,15
+17776220,Ecl,False,17
+17776585,Ecl,False,22
+17776640,Ecl,False,18
+17834634,rotational star,False,18
+17843334,Pulsating,False,18
+17845490,Pulsating,False,18
+17851092,rotational star,False,17
+17851685,Pulsating,False,18
+17852168,rotational star,False,16
+17880566,Ecl,False,16
+17883608,Ecl,False,12
+17901681,Pulsating,False,19
+17904870,rotational star,False,16
+18161508,Pulsating,False,24
+18162497,rotational star,False,19
+18162677,rotational star,False,18
+18162680,Ecl,False,15
+18162899,Ecl,False,18
+18163157,rotational star,False,18
+18163621,Pulsating,False,17
+18165084,Ecl,False,18
+18165093,rotational star,False,17
+18165266,Pulsating,False,16
+18166766,Pulsating,False,21
+18167556,Ecl,False,24
+18167717,Ecl,False,18
+18168720,rotational star,False,20
+18169982,rotational star,False,17
+18195792,Pulsating,False,17
+18196444,Ecl,False,16
+18197353,Pulsating,False,17
+18197760,Pulsating,False,17
+18197993,Ecl,False,16
+18265396,Ecl,False,15
+18265822,rotational star,False,15
+18273669,Pulsating,False,12
+18276283,rotational star,False,17
+18279384,Pulsating,False,16
+18280952,Ecl,False,18
+18281209,Ecl,False,16
+18285409,rotational star,False,15
+18286689,Pulsating,False,18
+18313806,rotational star,False,14
+18314073,Pulsating,False,15
+18480905,Ecl,False,17
+18534956,Ecl,False,18
+18558007,rotational star,False,15
+18559260,Ecl,False,13
+18559451,Ecl,False,16
+18559578,Ecl,False,15
+18561633,Pulsating,False,14
+18562774,Pulsating,False,17
+18563120,Ecl,False,17
+18563556,rotational star,False,17
+18563573,Ecl,False,14
+18563637,Ecl,False,13
+18563720,Ecl,False,16
+18563739,rotational star,False,17
+18563890,rotational star,False,19
+18565048,rotational star,False,14
+18565325,Pulsating,False,18
+18565790,Ecl,False,17
+18566020,rotational star,False,16
+18642543,rotational star,False,14
+18642699,Pulsating,False,13
+18642702,Pulsating,False,13
+18643556,rotational star,False,16
+18643995,Pulsating,False,16
+18644233,Ecl,False,11
+18644909,Ecl,False,15
+18645297,Ecl,False,17
+18645374,rotational star,False,15
+18645404,rotational star,False,15
+18645497,Ecl,False,15
+18646072,Pulsating,False,14
+18655471,rotational star,False,21
+18657423,Ecl,False,17
+18657447,rotational star,False,17
+18657766,Ecl,False,15
+18658755,rotational star,False,18
+18658938,Ecl,False,17
+18659291,Pulsating,False,13
+18660460,Pulsating,False,18
+18680467,Ecl,False,16
+18680916,Ecl,False,16
+18681665,rotational star,False,14
+18681808,Ecl,False,16
+18682871,Ecl,False,14
+18683438,Ecl,False,15
+18684107,rotational star,False,17
+18685198,Pulsating,False,15
+18753712,Ecl,False,17
+19132178,Ecl,False,17
+19136639,Ecl,False,20
+19137088,Pulsating,False,11
+19137315,Pulsating,False,22
+19137338,Ecl,False,24
+19137779,Pulsating,False,23
+19138566,Ecl,False,20
+19193474,Ecl,False,19
+19193693,rotational star,False,20
+19193756,rotational star,False,23
+19195294,rotational star,False,16
+19197408,rotational star,False,20
+19315549,rotational star,False,22
+19315713,Pulsating,False,22
+19316099,Pulsating,False,20
+19316467,Pulsating,False,20
+19316804,Pulsating,False,19
+19316948,Ecl,False,19
+19316981,Ecl,False,22
+19317220,Ecl,False,20
+19317330,Ecl,False,17
+19317387,Ecl,False,21
+19317521,Pulsating,False,18
+19317833,rotational star,False,21
+19318719,Ecl,False,19
+19318983,Ecl,False,16
+19319251,Ecl,False,18
+19319569,Ecl,False,21
+19319754,rotational star,False,20
+19586588,Pulsating,False,22
+19588422,Pulsating,False,15
+19590950,Pulsating,False,16
+19591600,Pulsating,False,15
+19591983,Ecl,False,17
+19593398,Pulsating,False,13
+19658850,rotational star,False,20
+19659532,Ecl,False,19
+19660286,Ecl,False,19
+19660896,rotational star,False,18
+19661167,Pulsating,False,14
+19661765,rotational star,False,18
+19662027,Ecl,False,19
+19750741,Ecl,False,13
+19964893,Pulsating,False,16
+19964951,Ecl,False,18
+19968336,Pulsating,False,16
+19968756,Pulsating,False,16
+19969256,Pulsating,False,13
+20026511,Ecl,False,14
+20027049,rotational star,False,18
+20027107,Ecl,False,18
+20027143,Ecl,False,19
+20027771,Ecl,False,17
+20028050,Ecl,False,17
+20028894,Ecl,False,15
+20029567,Ecl,False,19
+20029746,Ecl,False,21
+20029959,Pulsating,False,16
+20030174,Ecl,False,17
+20070902,Ecl,False,21
+20118322,Pulsating,False,15
+20118856,Ecl,False,17
+20119353,Pulsating,False,17
+20120409,Pulsating,False,20
+20122357,Pulsating,False,18
+20169612,Pulsating,False,16
+20184886,rotational star,False,17
+20185109,Ecl,False,20
+20185156,Ecl,False,16
+20185964,rotational star,False,20
+20186268,Ecl,False,18
+20187093,rotational star,False,22
+20187133,Ecl,False,14
+20187149,Pulsating,False,20
+20187502,Pulsating,False,18
+20187525,rotational star,False,22
+20188566,Ecl,False,20
+20190320,rotational star,False,25
+20190462,Ecl,False,27
+20191701,rotational star,False,16
+20191975,Pulsating,False,14
+20191977,rotational star,False,15
+20193949,rotational star,False,12
+20196747,rotational star,False,18
+20212525,Pulsating,False,14
+20233695,Pulsating,False,18
+20233748,Ecl,False,21
+20234508,Ecl,False,18
+20235179,rotational star,False,16
+20235242,Ecl,False,20
+20235704,Pulsating,False,19
+20236227,rotational star,False,18
+20236239,Ecl,False,15
+20236425,Pulsating,False,18
+20238116,Pulsating,False,14
+20238315,rotational star,False,15
+20239410,Pulsating,False,16
+20325152,Ecl,False,18
+20325257,Ecl,False,18
+20325636,Ecl,False,16
+20325781,rotational star,False,17
+20325802,Pulsating,False,16
+20325810,Pulsating,False,19
+20326076,Ecl,False,18
+20326114,Ecl,False,15
+20326118,Pulsating,False,17
+20326344,rotational star,False,18
+20326406,Ecl,False,16
+20326573,Ecl,False,15
+20327752,Ecl,False,19
+20328250,Ecl,False,19
+20329553,rotational star,False,18
+20330408,Pulsating,False,16
+20331638,rotational star,False,17
+20341021,Ecl,False,17
+20347229,Pulsating,False,16
+20350465,Ecl,False,14
+20453572,Ecl,False,14
+20453600,Ecl,False,16
+20456735,rotational star,False,13
+20459579,Pulsating,False,17
+20460094,Pulsating,False,16
+20460218,rotational star,False,17
+20464203,Ecl,False,17
+20465302,Ecl,False,14
+20465352,rotational star,False,18
+20471682,rotational star,False,15
+20473051,Pulsating,False,14
+20473112,rotational star,False,17
+20473143,rotational star,False,13
+20475142,Pulsating,False,16
+20475212,Ecl,False,17
+20475324,Pulsating,False,14
+20475980,Pulsating,False,19
+20476259,Ecl,False,16
+20476262,Pulsating,False,17
+20476550,Pulsating,False,15
+20579279,Pulsating,False,11
+20581090,Pulsating,False,13
+20582605,Ecl,False,15
+20582631,Ecl,False,12
+20582752,Ecl,True,7
+20582974,Ecl,False,16
+20583489,Pulsating,False,10
+20727061,Pulsating,False,18
+20727275,rotational star,False,20
+20727397,Pulsating,False,20
+20727923,Pulsating,False,15
+20729490,Pulsating,False,16
+20731248,Pulsating,False,19
+20731571,rotational star,False,18
+20731639,Ecl,False,18
+20731756,rotational star,False,19
+20733437,rotational star,False,19
+20924737,rotational star,False,18
+20925153,rotational star,False,14
+20961797,Ecl,False,17
+21175289,Pulsating,False,10
+21175361,Ecl,False,16
+21232250,rotational star,False,16
+21232257,Pulsating,False,16
+21232325,Ecl,False,13
+21232672,Pulsating,False,18
+21233087,Pulsating,False,16
+21233124,Pulsating,False,17
+21233648,Pulsating,False,18
+21233732,Pulsating,False,19
+21233825,Pulsating,False,18
+21235833,Ecl,False,15
+21256951,Ecl,False,20
+21257384,Ecl,False,20
+21257439,Ecl,False,21
+21331636,Pulsating,False,13
+21422113,Ecl,False,17
+21422125,Ecl,False,15
+21422211,Pulsating,False,19
+21422546,Pulsating,False,16
+21423044,Ecl,False,17
+21524260,rotational star,False,23
+21525577,Ecl,False,19
+21526418,Ecl,False,21
+21527184,Ecl,False,18
+21527211,Pulsating,False,16
+21530338,Ecl,False,19
+21530397,Ecl,False,17
+21530762,Pulsating,False,8
+21530868,rotational star,False,13
+21530908,Pulsating,False,16
+21531054,Ecl,False,16
+21531110,rotational star,False,18
+21531447,Pulsating,False,19
+21531649,Ecl,False,17
+21531680,rotational star,False,18
+21531988,rotational star,False,15
+21532142,Ecl,False,14
+21532216,Ecl,False,17
+21533311,Ecl,False,19
+21598075,Pulsating,False,19
+21598085,rotational star,False,13
+21598336,Pulsating,False,17
+21599311,Pulsating,False,17
+21599615,rotational star,False,16
+21600329,Pulsating,False,18
+21600913,Ecl,False,17
+21601027,rotational star,False,16
+21601463,Ecl,False,17
+21602369,Ecl,False,17
+21602902,Ecl,False,18
+21736850,rotational star,False,18
+21737728,rotational star,False,19
+21738137,Pulsating,False,21
+21738361,Ecl,False,21
+21738821,rotational star,False,17
+21741260,rotational star,False,21
+21741472,rotational star,False,17
+21741826,rotational star,False,20
+21741842,rotational star,False,15
+21741912,Pulsating,False,17
+21742022,rotational star,False,19
+21742048,Pulsating,False,15
+21771327,Ecl,False,17
+21771635,Ecl,False,17
+21849999,Pulsating,False,13
+21851139,rotational star,False,19
+21854183,Ecl,False,18
+21857747,Ecl,False,16
+21857836,Ecl,False,19
+21859112,Ecl,False,20
+21860728,Pulsating,False,13
+21865677,Pulsating,False,14
+21891265,Pulsating,False,18
+21891765,Pulsating,False,16
+22019656,Ecl,False,22
+22024390,Ecl,False,16
+22024537,Ecl,False,15
+22025457,Ecl,False,14
+22026557,Ecl,False,15
+22027571,Ecl,False,17
+22029517,Ecl,False,15
+22032757,Ecl,False,15
+22039675,Pulsating,False,17
+22040350,Pulsating,False,18
+22306244,Pulsating,False,27
+22306767,Pulsating,False,15
+22307491,rotational star,False,18
+22307772,rotational star,False,18
+22307887,rotational star,False,17
+22308016,Ecl,False,19
+22308111,rotational star,False,14
+22308607,Pulsating,False,21
+22309322,rotational star,False,17
+22309375,Pulsating,False,19
+22436387,Ecl,False,14
+22436608,Ecl,False,15
+22439883,rotational star,False,14
+22440147,Ecl,False,16
+22440296,Ecl,False,14
+22551837,rotational star,False,14
+22552904,Pulsating,False,15
+22570897,Ecl,False,15
+22575351,rotational star,False,14
+22578074,Ecl,False,15
+22579185,rotational star,False,16
+22579387,Pulsating,False,16
+22580083,rotational star,False,17
+22580223,rotational star,False,13
+22580935,rotational star,False,17
+22581958,rotational star,False,15
+22596528,rotational star,False,17
+22671545,Ecl,False,16
+22672045,Ecl,False,13
+22672109,Pulsating,False,17
+22672659,Pulsating,False,9
+22674765,rotational star,False,13
+22722003,Ecl,False,17
+22840115,Pulsating,False,16
+22840773,Pulsating,False,15
+22841055,rotational star,False,14
+22845416,Ecl,False,21
+22845889,Pulsating,False,19
+22846405,Pulsating,False,21
+22846563,rotational star,False,20
+22846571,Ecl,False,18
+22846993,Pulsating,False,21
+22847634,Ecl,False,20
+22848397,Pulsating,False,20
+22897498,Pulsating,False,19
+22897715,Ecl,False,17
+22897818,rotational star,False,18
+22898174,Ecl,False,21
+22898649,Ecl,False,15
+22898690,Pulsating,False,18
+23048145,Pulsating,False,18
+23048157,Pulsating,False,17
+23048297,Pulsating,False,16
+23048548,Pulsating,False,18
+23049620,Pulsating,False,18
+23050744,Ecl,False,15
+23094948,Pulsating,False,17
+23095577,rotational star,False,14
+23095666,Pulsating,False,18
+23096737,Pulsating,False,17
+23096766,Ecl,False,18
+23096785,Ecl,False,19
+23098777,Ecl,False,16
+23101244,Ecl,False,20
+23101515,Pulsating,False,16
+23101770,Pulsating,False,13
+23229152,Pulsating,False,8
+23229632,Pulsating,False,14
+23231605,Pulsating,False,19
+23369295,Ecl,False,16
+23369964,Ecl,False,15
+23370146,rotational star,False,17
+23518998,Ecl,False,17
+23519994,rotational star,False,18
+23520652,Ecl,False,17
+23520861,rotational star,False,15
+23520974,rotational star,False,19
+23521330,rotational star,False,14
+23523004,Ecl,False,18
+23523912,Ecl,False,17
+23524150,rotational star,False,18
+23524401,Ecl,False,18
+23524514,rotational star,False,19
+23524698,rotational star,False,18
+23524902,Pulsating,False,14
+23527368,rotational star,False,18
+23670575,Ecl,False,19
+23751164,Ecl,False,17
+23753830,Ecl,False,18
+23762010,rotational star,False,22
+23762447,rotational star,False,18
+23976863,Pulsating,False,16
+23977083,Pulsating,False,16
+23979154,Pulsating,False,15
+24041704,rotational star,False,16
+24046847,rotational star,False,15
+24058064,Pulsating,False,13
+24082089,Pulsating,False,18
+24136790,Ecl,False,16
+24138124,rotational star,False,19
+24138253,Pulsating,False,14
+24139220,rotational star,False,13
+24139579,rotational star,False,17
+24139669,Pulsating,False,18
+24140494,rotational star,False,18
+24140951,Pulsating,False,18
+24140979,Ecl,False,16
+24174358,rotational star,False,24
+24247507,Pulsating,False,18
+24309208,Pulsating,False,15
+24309921,rotational star,False,14
+24310162,rotational star,False,14
+24473874,rotational star,False,28
+24484885,Pulsating,False,16
+24531523,Pulsating,False,15
+24533094,Pulsating,False,13
+24533647,Ecl,False,18
+24533652,rotational star,False,16
+24534898,Pulsating,False,15
+24535838,Ecl,False,14
+24576891,Ecl,False,14
+24577185,Ecl,False,12
+24577245,Pulsating,False,17
+24577672,Ecl,False,12
+24577873,Ecl,False,17
+24577924,Ecl,False,18
+24578447,Ecl,False,17
+24578578,rotational star,False,18
+24578996,Ecl,False,16
+24579557,Ecl,False,18
+24579599,Ecl,False,18
+24690074,Pulsating,False,15
+24690299,Ecl,False,16
+24690444,rotational star,False,16
+24690993,Ecl,False,14
+24691204,rotational star,False,17
+24691343,Ecl,False,14
+24691515,Ecl,False,16
+24692152,Pulsating,False,17
+24693091,rotational star,False,16
+24693649,Ecl,False,15
+24694443,rotational star,False,15
+24694507,Ecl,False,17
+24694749,Ecl,False,15
+24824822,Ecl,False,16
+24827705,Ecl,False,16
+24827721,Ecl,False,18
+24827924,Ecl,False,14
+24873115,Ecl,False,17
+25059709,rotational star,False,21
+25061780,Ecl,False,21
+25061860,Pulsating,False,20
+25061940,rotational star,False,20
+25062344,Pulsating,False,19
+25064865,Ecl,False,16
+25078708,Ecl,False,20
+25171079,Ecl,False,15
+25171382,rotational star,False,17
+25172198,rotational star,False,18
+25172366,Pulsating,False,16
+25173063,Pulsating,False,17
+25173145,Ecl,False,16
+25173249,rotational star,False,14
+25240411,Ecl,False,19
+25295434,Pulsating,False,17
+25297554,Ecl,False,19
+25297906,Pulsating,False,21
+25298060,Ecl,False,20
+25299705,rotational star,False,20
+25299815,rotational star,False,23
+25300306,Ecl,False,19
+25301316,Ecl,False,16
+25301803,rotational star,False,19
+25305800,rotational star,False,18
+25313442,Ecl,False,22
+25341342,Pulsating,False,22
+25361240,rotational star,False,16
+25362557,Pulsating,False,16
+25365677,Pulsating,False,15
+25365681,Ecl,False,15
+25374643,Pulsating,False,18
+25463181,Pulsating,False,16
+25463342,Pulsating,False,21
+25463366,Ecl,False,15
+25464244,Ecl,False,18
+25464551,Pulsating,False,15
+25464972,Pulsating,False,11
+25465061,Ecl,False,14
+25465107,Ecl,False,16
+25465609,Ecl,False,15
+25520307,rotational star,False,14
+25586150,Pulsating,False,16
+25586204,Ecl,False,12
+25586524,rotational star,False,18
+25587375,Pulsating,False,20
+25587478,rotational star,False,19
+25587645,Ecl,False,18
+25588590,rotational star,False,19
+25588598,Ecl,False,19
+25588685,Pulsating,False,16
+25637549,Pulsating,False,14
+25785978,rotational star,False,18
+25791999,Ecl,False,15
+25792990,Ecl,False,17
+25793632,Pulsating,False,15
+25793714,Pulsating,False,15
+25893413,Ecl,False,20
+25894370,rotational star,False,19
+25895471,Ecl,False,17
+26063881,Ecl,False,16
+26064248,Ecl,False,14
+26064413,Ecl,False,12
+26065668,Ecl,False,18
+26066871,Ecl,False,18
+26067932,rotational star,False,14
+26068044,Ecl,False,15
+26069460,Ecl,False,14
+26121623,Pulsating,False,15
+26121898,Pulsating,False,15
+26122981,Ecl,False,19
+26123040,Ecl,False,17
+26123221,Ecl,False,20
+26123307,Ecl,False,18
+26132567,Pulsating,False,14
+26133011,Ecl,False,15
+26133022,rotational star,False,13
+26133386,Ecl,False,16
+26133520,rotational star,False,16
+26134605,Ecl,False,17
+26134626,Ecl,False,19
+26134629,rotational star,False,16
+26134637,Pulsating,False,19
+26142525,Pulsating,False,14
+26144019,Ecl,False,17
+26144601,rotational star,False,14
+26144643,rotational star,False,13
+26145781,rotational star,False,14
+26146708,Pulsating,False,12
+26286907,rotational star,False,16
+26291334,Pulsating,False,16
+26291452,Pulsating,False,14
+26292653,Pulsating,False,16
+26294888,rotational star,False,17
+26369497,Ecl,False,16
+26369924,Ecl,False,16
+26370134,rotational star,False,14
+26370884,Pulsating,False,12
+26371728,Ecl,False,18
+26373361,Pulsating,False,17
+26373616,Ecl,False,18
+26374646,rotational star,False,18
+26388559,Pulsating,False,17
+26390057,rotational star,False,17
+26390208,Pulsating,False,14
+26473626,rotational star,False,17
+26657061,Pulsating,False,24
+26657673,rotational star,False,17
+26657829,Pulsating,False,16
+26658269,Pulsating,False,18
+26658961,rotational star,False,19
+26661195,Pulsating,False,15
+26661714,rotational star,False,17
+26663375,Ecl,False,19
+26664672,Ecl,False,16
+26692722,Ecl,False,17
+26693205,Pulsating,False,12
+26798666,rotational star,False,15
+26799867,Ecl,False,16
+26800126,rotational star,False,17
+26800705,Ecl,False,15
+26801868,Ecl,False,19
+26801970,Ecl,False,15
+26802072,Ecl,False,16
+26802831,rotational star,False,12
+26803187,Ecl,False,18
+26803237,Pulsating,False,16
+26803671,Ecl,False,14
+26804212,Ecl,False,14
+26804238,Pulsating,False,16
+26820043,rotational star,False,17
+26915868,rotational star,False,16
+26916686,Ecl,False,19
+26917114,Pulsating,False,22
+26917129,Ecl,False,18
+26917131,rotational star,False,17
+26918330,rotational star,False,21
+26919066,rotational star,False,21
+26974283,rotational star,False,14
+27035707,Ecl,False,14
+27037023,Ecl,False,18
+27037332,Ecl,False,15
+27037925,Pulsating,False,12
+27038435,Pulsating,False,18
+27142600,Pulsating,False,9
+27142668,Pulsating,False,14
+27143353,Pulsating,False,13
+27143513,rotational star,False,13
+27143768,Pulsating,False,13
+27143939,Pulsating,False,12
+27144345,Pulsating,False,15
+27144593,Pulsating,False,15
+27146301,Pulsating,False,15
+27147130,Ecl,False,17
+27311608,Pulsating,False,19
+27326490,rotational star,False,13
+27352796,rotational star,False,19
+27568556,Ecl,False,13
+27569812,Pulsating,False,18
+27570608,Pulsating,False,18
+27571837,Ecl,False,16
+27571875,Pulsating,False,15
+27690280,Ecl,False,15
+27793881,Pulsating,False,18
+27794077,Ecl,False,19
+27794525,Ecl,False,15
+27794663,Ecl,False,18
+27922514,Ecl,False,23
+27923697,Ecl,False,19
+28035431,rotational star,False,16
+28036632,rotational star,False,18
+28036727,Pulsating,False,13
+28038109,rotational star,False,16
+28038117,Pulsating,False,16
+28039132,Pulsating,False,13
+28264500,rotational star,False,13
+28264688,rotational star,False,14
+28265471,rotational star,False,16
+28308557,Ecl,False,16
+28308661,Pulsating,False,13
+28308693,Pulsating,False,10
+28308855,rotational star,False,12
+28309118,Pulsating,False,12
+28309364,rotational star,False,12
+28332660,Ecl,False,18
+28333172,Pulsating,False,16
+28334044,rotational star,False,16
+28334166,rotational star,False,18
+28334662,Ecl,False,15
+28334764,Pulsating,False,13
+28664308,rotational star,False,19
+28684532,Pulsating,False,15
+28684551,Pulsating,False,14
+28684789,Ecl,False,15
+28685822,Ecl,False,16
+28685888,Ecl,False,16
+28686089,Ecl,False,16
+28686558,Pulsating,False,20
+28687329,Pulsating,False,15
+28706672,Pulsating,False,17
+28706711,rotational star,False,15
+28707431,Pulsating,False,22
+28708056,Pulsating,False,11
+28708465,Pulsating,False,19
+28708716,Pulsating,False,17
+28708916,Pulsating,False,17
+28710216,Pulsating,False,16
+28711497,rotational star,False,15
+28711657,Pulsating,False,16
+28712288,Ecl,False,26
+28752224,rotational star,False,16
+28753266,Ecl,False,13
+28763671,Ecl,False,19
+28763727,Ecl,False,18
+28763873,Ecl,False,19
+28765447,Ecl,False,18
+28766310,Ecl,False,18
+28766428,Pulsating,False,20
+28766478,Pulsating,False,18
+28816210,rotational star,False,14
+28817718,Ecl,False,15
+28902582,Pulsating,False,19
+28903167,Ecl,False,19
+28903832,Pulsating,False,22
+28904168,Ecl,False,21
+28904467,Ecl,False,18
+28905263,Ecl,False,19
+28905333,rotational star,False,20
+28906137,Ecl,False,20
+28921949,rotational star,False,16
+28922290,Ecl,False,21
+29095077,Pulsating,False,15
+29109245,Ecl,False,16
+29111193,Ecl,False,17
+29115645,Pulsating,False,18
+29116765,rotational star,False,16
+29120233,rotational star,False,18
+29120286,rotational star,False,15
+29120461,rotational star,False,19
+29120503,rotational star,False,20
+29120736,Pulsating,False,17
+29120854,rotational star,False,17
+29122492,rotational star,False,18
+29122503,rotational star,False,15
+29123121,Ecl,False,13
+29123437,rotational star,False,17
+29123719,rotational star,False,16
+29124055,Pulsating,False,17
+29124128,rotational star,False,16
+29124667,rotational star,False,18
+29125200,rotational star,False,18
+29186647,Ecl,False,17
+29186694,Ecl,False,15
+29188245,rotational star,False,17
+29188309,Pulsating,False,13
+29188330,rotational star,False,16
+29188415,Pulsating,False,16
+29188468,rotational star,False,15
+29188595,Pulsating,True,7
+29188608,rotational star,False,14
+29188720,rotational star,False,15
+29188874,rotational star,False,15
+29189060,Pulsating,False,10
+29189081,Pulsating,False,12
+29189133,rotational star,False,11
+29240740,rotational star,False,17
+29240998,Pulsating,False,15
+29243682,Ecl,False,20
+29244562,Pulsating,False,21
+29244733,rotational star,False,16
+29245444,Ecl,False,20
+29255984,Pulsating,False,14
+29272289,Pulsating,False,15
+29320586,Ecl,False,16
+29333111,Pulsating,False,17
+29401089,rotational star,False,11
+29418604,rotational star,False,20
+29466786,Ecl,False,22
+29468390,Pulsating,False,15
+29470734,rotational star,False,17
+29471286,Ecl,False,16
+29561134,Ecl,False,18
+29581880,rotational star,False,15
+29585697,Ecl,False,19
+29585955,Pulsating,False,16
+29586228,Pulsating,False,17
+29587302,rotational star,False,20
+29587989,Pulsating,False,20
+29588053,Pulsating,False,18
+29588091,Pulsating,False,15
+29588414,rotational star,False,17
+29593421,Pulsating,False,18
+29600415,Ecl,False,17
+29600773,Ecl,False,18
+29602508,Pulsating,False,16
+30985418,Ecl,False,16
+31013677,Ecl,False,15
+31050780,rotational star,False,18
+31074379,Pulsating,False,15
+31074586,rotational star,False,15
+31074838,Pulsating,False,17
+31075466,rotational star,False,17
+31075571,Ecl,False,16
+31075998,Ecl,False,16
+31076565,Pulsating,False,17
+31076717,Ecl,False,16
+31076757,Ecl,False,20
+31077308,Pulsating,False,15
+31077316,rotational star,False,16
+31077447,rotational star,False,15
+31079188,Pulsating,False,17
+31132730,rotational star,False,20
+31263985,Ecl,False,17
+31264095,Ecl,False,20
+31269082,Pulsating,False,12
+31275163,Pulsating,False,15
+31275601,Ecl,False,15
+31275987,Ecl,False,18
+31276019,Pulsating,False,15
+31276873,Ecl,False,17
+31276935,Ecl,False,14
+31278093,rotational star,False,14
+31278666,Pulsating,False,18
+31279311,rotational star,False,18
+31279583,Ecl,False,15
+31279961,Ecl,False,15
+31281030,Pulsating,False,13
+31323486,Ecl,False,11
+31323572,Ecl,False,18
+31324071,Pulsating,False,10
+31419272,Pulsating,False,15
+31421863,Ecl,False,14
+31427907,Ecl,False,18
+31427924,Ecl,False,15
+31429192,rotational star,False,17
+31429308,Ecl,False,18
+31430137,rotational star,False,18
+31430792,Pulsating,False,19
+31430811,Pulsating,False,17
+31431417,Ecl,False,19
+31431523,Pulsating,False,20
+31432450,Ecl,False,18
+31495559,rotational star,False,14
+31495826,Ecl,False,27
+31495934,Ecl,False,17
+31496765,rotational star,False,18
+31497590,Ecl,False,21
+31498095,Ecl,False,17
+31498178,Ecl,False,20
+31498196,Ecl,False,19
+31498437,Ecl,False,18
+31498598,rotational star,False,19
+31499096,Ecl,False,19
+31499229,rotational star,False,21
+31527894,Ecl,False,17
+31528384,Ecl,False,12
+31528620,rotational star,False,14
+31528690,Pulsating,False,18
+31529882,Pulsating,False,18
+31529982,rotational star,False,18
+31530586,Ecl,False,16
+31594996,Ecl,False,15
+31596421,Ecl,False,16
+31596540,rotational star,False,13
+31596857,rotational star,False,16
+31597049,Ecl,False,18
+31597426,Ecl,False,15
+31733188,Pulsating,False,16
+32006044,Pulsating,False,16
+32006362,Pulsating,False,16
+32006741,rotational star,False,18
+32006784,Ecl,False,15
+32007198,Pulsating,False,14
+32008016,rotational star,False,13
+32052215,Pulsating,False,17
+32052316,Ecl,False,20
+32052452,Ecl,False,19
+32070347,Pulsating,False,19
+32070806,rotational star,False,18
+32071598,Ecl,False,18
+32071733,rotational star,False,11
+32096345,Pulsating,False,19
+32206694,rotational star,False,20
+32268791,rotational star,False,14
+32537544,rotational star,False,18
+32538441,Ecl,False,18
+32538552,Pulsating,False,17
+32538930,rotational star,False,16
+32539259,Ecl,False,18
+32539513,Ecl,False,17
+32539598,rotational star,False,19
+32540202,Pulsating,False,16
+32540408,rotational star,False,18
+32543509,Pulsating,False,18
+32639569,Ecl,False,20
+32919219,Ecl,False,15
+32919972,rotational star,False,15
+32978541,Ecl,False,16
+32978787,Ecl,False,16
+32979566,Pulsating,False,16
+32979723,Ecl,False,15
+32979791,rotational star,False,18
+32979939,Ecl,False,18
+32980056,Ecl,False,18
+32980375,Ecl,False,18
+32981849,Pulsating,False,15
+33292680,Ecl,False,15
+33293309,Ecl,False,19
+33293395,Ecl,False,18
+33293424,Ecl,False,18
+33293623,rotational star,False,18
+33295073,Ecl,False,17
+33295106,Ecl,False,18
+33544828,Ecl,False,15
+33545044,rotational star,False,15
+33547683,Ecl,False,16
+33552533,rotational star,False,17
+33553864,Pulsating,False,15
+33555050,Ecl,False,18
+33602149,Ecl,False,15
+33728037,Pulsating,False,24
+33804233,rotational star,False,23
+33889547,Ecl,False,15
+34288224,rotational star,False,21
+34288999,rotational star,False,17
+34290093,rotational star,False,22
+34460627,Ecl,False,15
+34462510,Pulsating,False,18
+34718778,Ecl,False,19
+34719717,Pulsating,False,17
+34721768,Pulsating,False,22
+34722895,Pulsating,False,20
+34732752,Ecl,False,17
+34732858,Pulsating,False,20
+35903210,rotational star,False,13
+36068453,Ecl,False,15
+36068658,Ecl,False,15
+36072429,Ecl,False,14
+36072530,Ecl,False,19
+36072684,rotational star,False,15
+36072883,Ecl,False,14
+36072914,Ecl,False,15
+36073512,Ecl,False,14
+36073957,Ecl,False,16
+36074181,Ecl,False,17
+36075031,Ecl,False,17
+36151101,Ecl,False,17
+36775911,Pulsating,False,21
+36928744,rotational star,False,18
+36928781,Ecl,False,20
+36929805,rotational star,False,17
+36931036,Ecl,False,20
+36931135,rotational star,False,14
+36931377,rotational star,False,20
+36931732,Pulsating,False,16
+36932338,rotational star,False,19
+36932661,Pulsating,False,17
+36932838,Ecl,False,17
+36932872,Pulsating,False,18
+36933237,Pulsating,False,14
+36933640,Pulsating,False,16
+36934082,Ecl,False,19
+36934154,rotational star,False,18
+36934230,Pulsating,False,19
+37007009,Pulsating,False,16
+37009402,Ecl,False,15
+37009428,Pulsating,False,18
+37011076,Pulsating,False,14
+37015268,Ecl,False,15
+37016147,Ecl,False,17
+37018086,Pulsating,False,15
+37019146,Pulsating,False,13
+37023740,Ecl,False,15
+37026452,rotational star,False,17
+37028600,Pulsating,False,14
+37036024,Pulsating,False,18
+37156018,Pulsating,False,14
+37156082,rotational star,False,13
+37483271,Ecl,False,23
+37518790,Ecl,False,11
+37518901,rotational star,False,14
+37519132,Ecl,False,15
+37521089,rotational star,False,15
+37652695,Ecl,False,16
+37784948,Ecl,False,15
+37878702,rotational star,False,21
+37878826,Ecl,False,21
+37879054,Pulsating,False,18
+37879621,rotational star,False,20
+37879672,rotational star,False,14
+37880184,Pulsating,False,20
+37881238,rotational star,False,15
+37935112,Ecl,False,20
+37972279,Pulsating,False,14
+37972550,Ecl,False,15
+37972693,Pulsating,False,16
+37973556,Pulsating,False,17
+37974064,rotational star,False,16
+37974465,Pulsating,False,16
+37974712,rotational star,False,15
+38003224,Ecl,False,14
+38005317,rotational star,False,14
+38006062,Ecl,False,17
+38006385,Pulsating,False,12
+38006979,Pulsating,False,15
+38009350,Pulsating,False,13
+38286876,Ecl,False,15
+38592808,Ecl,False,14
+38956548,Pulsating,False,15
+38957402,Ecl,False,17
+38957658,Ecl,False,18
+38957859,rotational star,False,16
+38959227,Ecl,False,16
+38959321,Ecl,False,19
+38959792,Pulsating,False,18
+38960060,Pulsating,False,15
+38960487,rotational star,False,19
+39178060,rotational star,False,25
+39178767,Ecl,False,20
+39180485,rotational star,False,22
+39184902,rotational star,False,21
+39185786,rotational star,False,21
+39190767,rotational star,False,15
+39196991,rotational star,False,18
+39200556,Pulsating,False,18
+39241909,Ecl,False,14
+39372846,rotational star,False,17
+39372929,rotational star,False,17
+39373554,Pulsating,False,20
+39373713,Ecl,False,15
+39373810,Pulsating,False,15
+39374303,Ecl,False,20
+39374588,rotational star,False,19
+39374606,Ecl,False,16
+39375276,Pulsating,False,17
+39375292,Ecl,False,17
+39591775,Ecl,False,17
+39592134,Ecl,False,15
+39592802,rotational star,False,16
+39592808,Ecl,False,15
+39593923,Ecl,False,17
+39594938,Ecl,False,14
+39595213,rotational star,False,17
+39825744,Pulsating,False,14
+39826907,Pulsating,False,16
+39827041,Pulsating,False,18
+39827357,Pulsating,False,18
+39827674,Ecl,False,17
+39827996,Ecl,False,17
+39831038,rotational star,False,16
+39832168,Ecl,False,15
+39832833,Pulsating,False,15
+39833615,rotational star,False,14
+39834297,Ecl,False,14
+39857858,Ecl,False,14
+40430597,rotational star,False,18
+40431015,Pulsating,False,17
+40432753,rotational star,False,16
+40432971,Pulsating,False,11
+40584785,Pulsating,False,15
+40586154,Ecl,False,13
+40601869,Pulsating,False,14
+40698865,Pulsating,False,18
+40702077,Pulsating,False,16
+40702218,Pulsating,False,17
+40702518,Ecl,False,16
+40702567,Pulsating,False,16
+40702829,rotational star,False,12
+40703147,Pulsating,False,15
+40703379,Ecl,False,17
+40703607,Pulsating,False,13
+40769636,Ecl,False,17
+40918651,rotational star,False,14
+41124661,Ecl,False,13
+41125000,Pulsating,False,18
+41125983,Pulsating,False,18
+41126101,Pulsating,False,16
+41128071,Ecl,False,20
+41128990,Ecl,False,21
+41234847,Ecl,False,12
+41235395,rotational star,False,11
+41308849,Pulsating,False,14
+41310649,Pulsating,False,16
+41316692,Pulsating,False,14
+41316703,Ecl,False,16
+41474622,Ecl,False,17
+41475600,Ecl,False,17
+41479209,Pulsating,False,16
+41581717,Ecl,False,19
+41582109,Ecl,False,21
+41582537,Ecl,False,22
+41583109,Ecl,False,24
+41583171,Ecl,False,21
+41584957,Ecl,False,17
+41585546,Ecl,False,14
+41585807,Ecl,False,14
+41585868,Ecl,False,15
+41586209,Ecl,False,15
+41588082,Ecl,False,15
+41590845,rotational star,False,16
+41759938,Pulsating,False,14
+41760694,rotational star,False,19
+42026980,rotational star,False,14
+42027594,Pulsating,False,13
+42028981,Ecl,False,15
+42031082,Pulsating,False,19
+42032149,Ecl,False,17
+42032298,Ecl,False,17
+42204208,rotational star,False,22
+42258160,Pulsating,False,11
+42324814,Pulsating,False,11
+42324856,Ecl,False,19
+42325915,rotational star,False,18
+42326648,rotational star,False,14
+42327085,rotational star,False,14
+42328798,Pulsating,False,17
+42445385,Ecl,False,19
+42446215,rotational star,False,18
+42469634,Pulsating,False,16
+42473187,rotational star,False,17
+42475683,rotational star,False,15
+42476058,Pulsating,False,17
+42477231,Ecl,False,17
+42477419,Pulsating,False,18
+42479355,Pulsating,False,18
+42480121,rotational star,False,16
+42483150,rotational star,False,16
+42487693,rotational star,False,20
+42489822,rotational star,False,15
+42543968,rotational star,False,19
+42745364,Pulsating,False,18
+42745458,Pulsating,False,22
+42746782,rotational star,False,15
+42746983,Ecl,False,15
+42747364,Pulsating,False,15
+42747397,Pulsating,False,17
+42748649,Ecl,False,14
+42785560,Ecl,False,20
+42786413,Pulsating,False,16
+42786595,Ecl,False,19
+42786820,Pulsating,False,22
+42787423,rotational star,False,19
+42798863,Ecl,False,16
+42912979,Ecl,False,15
+42913803,Ecl,False,15
+42913866,Pulsating,False,15
+42914013,Pulsating,False,17
+42914156,rotational star,False,18
+42914165,Pulsating,False,12
+42914778,Pulsating,False,15
+42914806,Ecl,False,15
+43459884,Ecl,False,21
+43460024,rotational star,False,22
+43460705,rotational star,False,15
+43461889,Ecl,False,20
+43461999,Pulsating,False,19
+43462247,rotational star,False,19
+43462276,Ecl,False,15
+43463371,Ecl,False,19
+43600514,Ecl,False,14
+43602504,rotational star,False,16
+43602683,Pulsating,False,19
+43605629,Ecl,False,17
+43606048,Pulsating,False,15
+43606826,Pulsating,False,19
+43607337,Pulsating,False,22
+43607595,Pulsating,False,20
+43646238,Pulsating,False,17
+43723574,Ecl,False,20
+43723851,Ecl,False,22
+43723861,rotational star,False,24
+43724324,Ecl,False,21
+43725364,Ecl,False,16
+43725412,Pulsating,False,17
+43725574,Ecl,False,22
+43726367,Ecl,False,14
+43726744,Ecl,False,16
+43729149,Pulsating,False,22
+43751047,Pulsating,False,11
+43751069,Ecl,False,17
+43751070,rotational star,False,16
+43751104,Ecl,False,16
+43751136,rotational star,False,11
+43751151,Pulsating,False,12
+43751158,Pulsating,False,11
+43751253,Pulsating,False,12
+43751394,Pulsating,False,14
+43751433,rotational star,False,16
+43751484,Pulsating,False,14
+43752175,Pulsating,False,8
+43752630,Pulsating,False,12
+43752743,Pulsating,False,14
+43752999,Pulsating,False,13
+43915068,Ecl,False,13
+43920294,Ecl,False,21
+43920296,Ecl,False,13
+43920441,Ecl,False,18
+43920514,Pulsating,False,18
+43921401,rotational star,False,20
+44122794,Pulsating,False,16
+44123646,rotational star,False,19
+44123679,Pulsating,False,15
+44123784,Ecl,False,17
+44124677,Ecl,False,20
+44125049,Pulsating,False,17
+44137633,Ecl,False,14
+44449429,Ecl,False,19
+44449501,Pulsating,False,16
+44449773,Ecl,False,20
+44450177,Ecl,False,17
+44660628,rotational star,False,17
+44660668,Pulsating,False,14
+44660963,Pulsating,False,17
+44661169,rotational star,False,16
+44661540,rotational star,False,18
+44662651,rotational star,False,19
+44663248,Ecl,False,19
+44663258,Ecl,False,17
+44663347,Pulsating,False,15
+46094232,Ecl,False,14
+46259988,Pulsating,False,18
+46260797,rotational star,False,16
+46260855,Ecl,False,19
+46260931,Pulsating,False,17
+46261293,Ecl,False,17
+46261627,rotational star,False,17
+46261677,Ecl,False,18
+46413963,Pulsating,False,15
+46414437,Pulsating,False,14
+46414555,Pulsating,False,21
+46414760,Pulsating,False,16
+46414813,rotational star,False,17
+46415881,rotational star,False,16
+46416057,rotational star,False,21
+46416385,Ecl,False,16
+46435479,Pulsating,False,16
+46632641,Ecl,False,20
+46897724,Pulsating,False,17
+46897757,Pulsating,False,15
+46897839,Pulsating,False,11
+46897972,Pulsating,False,15
+46898141,Pulsating,False,18
+46898174,Pulsating,False,16
+46898175,Pulsating,False,16
+46898218,Pulsating,False,17
+46898222,Pulsating,False,16
+46898273,Pulsating,False,17
+46898381,Pulsating,False,14
+46898392,Pulsating,False,13
+46898395,Pulsating,False,18
+46898462,Pulsating,False,15
+46898500,Pulsating,False,15
+46898524,Pulsating,False,17
+46900523,Pulsating,False,15
+46900530,Pulsating,False,14
+46900571,Pulsating,False,15
+46900721,Pulsating,False,15
+46900766,Pulsating,False,16
+46900775,Pulsating,False,15
+46900792,Pulsating,False,15
+46900957,Pulsating,False,16
+46901361,rotational star,False,15
+46909891,Pulsating,False,14
+46914594,Pulsating,False,15
+46981461,Pulsating,False,10
+47022061,Ecl,False,18
+47022490,Ecl,False,13
+47022601,Ecl,False,15
+47024234,Ecl,False,15
+47024240,Ecl,False,17
+47491785,Ecl,False,19
+47492672,Ecl,False,20
+47493141,Ecl,False,16
+47493276,Ecl,False,20
+47494200,Ecl,False,20
+47494726,Ecl,False,19
+47969932,Ecl,False,14
+47970268,Ecl,False,15
+47970466,Ecl,False,16
+47970546,Ecl,False,14
+48249657,rotational star,False,13
+48251461,Pulsating,False,17
+48254750,Ecl,False,18
+48254913,Pulsating,False,14
+48286211,rotational star,False,17
+48287254,Pulsating,False,17
+48290715,Ecl,False,15
+48291676,rotational star,False,13
+48291723,Ecl,False,15
+48291761,Pulsating,False,14
+48291854,Ecl,False,15
+48293073,rotational star,False,15
+48982818,Ecl,False,13
+49372616,Ecl,False,17
+49373707,Pulsating,False,15
+49377921,Ecl,False,16
+49381051,Ecl,False,15
+49385327,Ecl,False,18
+49395288,Ecl,False,16
+49847105,Ecl,False,14
+50132451,Ecl,False,18
+50354719,Pulsating,False,14
+50356551,rotational star,False,19
+50357254,Pulsating,False,21
+50357494,Pulsating,False,22
+50357741,Pulsating,False,17
+50897611,Pulsating,False,17
+51452441,Pulsating,False,15
+51619399,Ecl,False,13
+51619832,Pulsating,False,13
+51620430,Pulsating,False,17
+51621678,Ecl,False,17
+51784597,Ecl,False,13
+51786275,Ecl,False,17
+52059746,rotational star,False,10
+52059747,Pulsating,False,14
+52059949,Pulsating,False,12
+53182877,Ecl,False,17
+53222658,Pulsating,False,16
+53228372,Ecl,False,18
+53232890,rotational star,False,21
+53235155,Pulsating,False,16
+53235397,rotational star,False,19
+53235521,Pulsating,False,18
+53235876,Pulsating,False,9
+53235922,Pulsating,False,21
+53236580,Pulsating,False,15
+53238530,Pulsating,False,19
+53329569,Ecl,False,12
+53330452,Ecl,False,14
+53330884,Ecl,False,15
+53396979,rotational star,False,17
+53912901,Pulsating,False,13
+54234641,Ecl,False,14
+54833781,Pulsating,True,7
+55693949,Pulsating,False,19
+55709185,rotational star,False,17
+56915085,Pulsating,False,20
+57826612,Pulsating,False,18
+57826750,Ecl,False,17
+57827024,Ecl,False,16
+57827358,rotational star,False,18
+57827397,rotational star,False,16
+57989097,Ecl,False,15
+57991378,rotational star,False,16
+57992772,Ecl,False,14
+58248261,Ecl,False,21
+58248337,rotational star,False,12
+58248360,Ecl,False,15
+58248985,Pulsating,False,18
+58249067,Ecl,False,20
+58249566,Ecl,False,16
+58249780,Ecl,False,19
+58249965,Ecl,False,20
+58251035,Ecl,False,19
+58251450,Ecl,False,20
+58251579,Ecl,False,14
+58252576,Ecl,False,21
+58252767,Ecl,False,20
+58286884,rotational star,False,16
+58438055,rotational star,False,13
+58794305,Pulsating,False,17
+58796041,Pulsating,False,16
+58798404,Pulsating,False,18
+58800074,rotational star,False,18
+58810544,Pulsating,False,16
+58972187,rotational star,False,17
+58972248,Pulsating,False,14
+58973832,rotational star,False,15
+59051007,rotational star,False,15
+59051013,rotational star,False,17
+59051248,Pulsating,False,15
+59051356,Ecl,False,15
+59051628,rotational star,False,16
+59052568,rotational star,False,16
+59054382,rotational star,False,18
+59054632,rotational star,False,19
+59057392,rotational star,False,17
+59428296,rotational star,False,17
+59434931,rotational star,False,17
+59435172,Ecl,False,14
+59435638,Pulsating,False,16
+59437778,Ecl,False,16
+59437932,Pulsating,True,7
+59438186,rotational star,False,16
+59724929,Ecl,False,14
+59739171,rotational star,False,16
+60261746,rotational star,False,18
+60262047,Ecl,False,19
+60263076,Pulsating,False,18
+60263095,rotational star,False,19
+60263670,Ecl,False,17
+60263788,Pulsating,False,19
+60263799,Ecl,False,17
+60264159,Ecl,False,20
+60265807,rotational star,False,17
+60289910,Pulsating,False,14
+60290272,Pulsating,False,14
+60412706,Pulsating,False,11
+60468363,Ecl,False,16
+60483813,Ecl,False,15
+60498365,Ecl,False,17
+60504463,Pulsating,False,17
+60507049,Pulsating,False,10
+60513231,Pulsating,False,15
+60518388,Ecl,False,15
+60656985,Pulsating,False,16
+60657172,rotational star,False,15
+60657582,rotational star,False,16
+61496708,rotational star,False,14
+61496813,Ecl,False,17
+61497285,rotational star,False,15
+61497610,rotational star,False,17
+61760167,Pulsating,False,19
+61899853,rotational star,False,21
+63434538,Ecl,False,16
+63435677,rotational star,False,15
+63436195,Ecl,False,13
+63436596,Ecl,False,14
+63436799,Ecl,False,16
+63437025,Pulsating,False,17
+63437560,Pulsating,False,13
+63437718,Ecl,False,19
+63438290,rotational star,False,17
+63439174,rotational star,False,17
+64169835,rotational star,False,15
+64170749,rotational star,False,16
+64170766,Pulsating,False,13
+64171523,Ecl,False,16
+64210279,Pulsating,False,9
+64211193,Ecl,False,16
+64211202,Ecl,False,15
+64441220,Ecl,False,16
+64449850,Pulsating,False,12
+64468311,Pulsating,False,16
+64486569,rotational star,False,18
+64488620,Ecl,False,16
+64496966,Pulsating,False,16
+64505857,Pulsating,False,14
+64519009,Ecl,False,18
+64520949,Ecl,False,14
+64528712,Pulsating,False,15
+64600489,rotational star,False,16
+64601210,Pulsating,False,18
+65147776,rotational star,False,12
+65409921,Pulsating,False,16
+65707370,Ecl,False,17
+65712645,Pulsating,False,14
+65713036,Pulsating,False,17
+66159119,Pulsating,False,14
+66340287,rotational star,False,17
+66601190,Ecl,False,12
+66601994,Pulsating,False,16
+67079023,Pulsating,False,16
+70834957,Pulsating,False,17
+70835195,Ecl,False,15
+70836558,Pulsating,False,15
+70836696,Ecl,False,18
+70836946,rotational star,False,17
+70837644,Ecl,False,16
+70879649,Pulsating,False,13
+71713323,Pulsating,False,19
+72372723,Ecl,False,15
+72373285,Ecl,False,16
+73598524,Pulsating,False,15
+77823016,rotational star,False,13
+77824269,rotational star,False,12
+77824723,Pulsating,False,15
+77825129,rotational star,False,16
+77825973,Pulsating,False,14
+77826191,Pulsating,False,14
+77826239,Pulsating,False,13
+77826398,Pulsating,False,14
+77827133,Pulsating,False,16
+77827357,Pulsating,False,12
+87877251,Pulsating,False,15
+92903768,Ecl,False,19
+96131644,rotational star,False,13
+98165613,rotational star,False,18
+120940265,rotational star,False,15

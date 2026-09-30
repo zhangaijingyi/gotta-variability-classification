@@ -57,9 +57,8 @@ python scripts/time_system_sensitivity.py
 
 The recorded environment and random seeds are in `derived_data/software_versions_and_seeds.json`. The primary classification seed and GP validation seed are both 1; repeated source partitions use seeds 1 through 10.
 
-Release tag: `v1.0.0`  
-Release URL: `https://github.com/zhangajingyi/gotta-variability-classification/releases/tag/v1.0.0`  
-Commit: replace with the output of `git rev-parse HEAD` after the release commit.
+Release tag: `v1.0.1`  
+Release URL: `https://github.com/zhangaijingyi/gotta-variability-classification/releases/tag/v1.0.1`  
 
 ## Data policy
 

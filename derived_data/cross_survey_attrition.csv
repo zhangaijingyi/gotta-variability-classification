@@ -1,0 +1,6 @@
+stage,ECL,PULS,ROT,total
+catalog-matched GOTTA sources,1468,1355,1027,3850
+local ZTF light curve unavailable,619,588,420,1627
+ZTF/full or matched-cadence fit unavailable,147,134,112,393
+removed by residual-scatter <0.5 mag criterion,44,70,46,160
+retained cross-survey comparison,658,563,449,1670

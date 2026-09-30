@@ -1,0 +1,3 @@
+selected,other,selected_only_correct,other_only_correct,mcnemar_exact_p
+natural,undersampling,13,14,1.0
+natural,oversampling,8,8,1.0
