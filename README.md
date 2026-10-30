@@ -8,7 +8,7 @@ Versioned analysis code and derived validation products supporting the RAA manus
 - `derived_data/`: source splits, predictions, corrected features, GP held-out products, statistical summaries, and figures used in the revised analysis.
 - `docs/DATA_AVAILABILITY.md`: distinction between restricted raw GOTTA photometry and public code/derived products.
 - `requirements.txt`: recorded Python dependencies.
-- `CITATION.cff`: citation metadata; replace the GitHub username before publication.
+- `CITATION.cff`: citation metadata for this release.
 
 ## Quick reproduction from public derived products
 
