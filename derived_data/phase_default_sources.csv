@@ -1,0 +1,13 @@
+source_id,label,default_phase,occupied_bins,n_obs,median_mag_source,split
+1529400,Pulsating,True,7,27.0,14.428913,test
+3901523,Pulsating,True,3,48.0,17.988095,train
+3901579,Pulsating,True,1,54.0,17.147382,train
+9210109,rotational star,True,7,55.0,17.824892,test
+11000690,Pulsating,True,7,20.0,14.78641,test
+11003680,Pulsating,True,7,21.0,16.071966,test
+13242181,Pulsating,True,7,37.0,17.808138,validation
+13242895,Pulsating,True,6,49.0,17.960655,train
+20582752,Ecl,True,7,28.0,18.283829,train
+29188595,Pulsating,True,7,23.0,14.709169,train
+54833781,Pulsating,True,7,20.0,16.816239,train
+59437932,Pulsating,True,7,20.0,16.8111495,train
