@@ -66,4 +66,7 @@ Raw GOTTA Prototype photometry cannot be publicly released or redistributed unde
 
 ## License
 
-A reuse license must be approved by the collaboration before public release. See `docs/LICENSE_NOTE.md`.
+No open-source license has been granted for this repository.
+Public access is provided for inspection and reproducibility review.
+Reuse and redistribution remain subject to permission from the
+relevant rights holders. See `docs/LICENSE_NOTE.md`.
