@@ -1,5 +1,11 @@
-# License decision required
+# Licensing status
 
-No reuse license has been selected yet. Before the public release, the authors should confirm with the GOTTA Collaboration which license is appropriate for the analysis code and separately confirm whether the derived tables may be redistributed under the same terms.
+No open-source license has been granted for the analysis code or
+derived products in this repository. Public access is provided for
+inspection and reproducibility review. Reuse and redistribution
+remain subject to permission from the relevant rights holders.
 
-After approval, add a standard `LICENSE` file at the repository root and update the license section in `README.md`.
+Raw GOTTA photometry is excluded from this repository and remains
+subject to the GOTTA Collaboration data-release policy.
+
+For permission inquiries, contact Jingyi Zhang at jyzhang@bao.ac.cn.
