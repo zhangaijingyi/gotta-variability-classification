@@ -1,6 +1,9 @@
 # GOTTA variability and classification analysis
 
-Versioned analysis code and derived validation products supporting the RAA manuscript on variability extraction and source-level classification with the GOTTA Prototype data.
+Versioned analysis code and derived validation products supporting the RAA manuscript on variability extraction and source-level classification with the GOTTA Prototype data. The final reproducibility supplement is GOTTA_supplement_20261119.zip.
+Please extract it and follow its README for classification and period-control reproduction.
+The archived main classifier is reproduced with scikit-learn 1.6.1.
+The earlier classification environment record incorrectly specified version 1.4.2.
 
 ## Contents
 
