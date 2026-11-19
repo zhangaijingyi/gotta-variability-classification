@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software or its derived products, please cite the associated RAA article."
 title: "Reproducibility package for GOTTA Prototype variability and classification analysis"
-version: 1.0.1
+version: 1.0.2
 date-released: 2026-09-30
 authors:
   - family-names: Zhang
