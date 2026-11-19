@@ -1,6 +1,6 @@
 # GOTTA variability and classification analysis
 
-Versioned analysis code and derived validation products supporting the RAA manuscript on variability extraction and source-level classification with the GOTTA Prototype data. The final reproducibility supplement is GOTTA_supplement_20261119.zip.
+Versioned analysis code and derived validation products supporting the RAA manuscript on variability extraction and source-level classification with the GOTTA Prototype data. The final reproducibility supplement is [GOTTA_supplement_20261119.zip](https://github.com/zhangaijingyi/gotta-variability-classification/releases/download/v1.0.3/GOTTA_supplement_20261119.zip).
 Please extract it and follow its README for classification and period-control reproduction.
 The archived main classifier is reproduced with scikit-learn 1.6.1.
 The earlier classification environment record incorrectly specified version 1.4.2.
@@ -60,8 +60,8 @@ python scripts/time_system_sensitivity.py
 
 The recorded environment and random seeds are in `derived_data/software_versions_and_seeds.json`. The primary classification seed and GP validation seed are both 1; repeated source partitions use seeds 1 through 10.
 
-Release tag: `v1.0.1`  
-Release URL: `https://github.com/zhangaijingyi/gotta-variability-classification/releases/tag/v1.0.1`  
+Release tag: `v1.0.3`  
+Release URL: `https://github.com/zhangaijingyi/gotta-variability-classification/releases/tag/v1.0.3`  
 
 ## Data policy
 
